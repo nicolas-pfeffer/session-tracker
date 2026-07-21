@@ -1,1 +1,227 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Suivi reservations - concurrent</title>
+<style>
+  :root {
+    --bg: #f7f6f2;
+    --card: #ffffff;
+    --border: #e2e0d8;
+    --text: #1c1b19;
+    --muted: #6b6a63;
+    --accent-0: #eef3fb;
+    --accent-1: #c9dcf3;
+    --accent-2: #9dbfe8;
+    --accent-3: #6e9bd6;
+    --accent-4: #3d74bf;
+    --weekend: #f2ede4;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    padding: 24px;
+  }
+  header { margin-bottom: 20px; }
+  h1 { font-size: 20px; font-weight: 600; margin: 0 0 4px; }
+  .sub { font-size: 13px; color: var(--muted); }
+  .toolbar {
+    display: flex; gap: 12px; align-items: center; flex-wrap: wrap;
+    margin: 16px 0 20px;
+  }
+  select {
+    padding: 6px 10px; border: 1px solid var(--border); border-radius: 6px;
+    background: var(--card); font-size: 13px; color: var(--text);
+  }
+  .legend { display: flex; gap: 8px; align-items: center; font-size: 12px; color: var(--muted); margin-left: auto; }
+  .legend-swatch { width: 14px; height: 14px; border-radius: 3px; display: inline-block; }
+  .metrics { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; margin-bottom: 22px; }
+  .metric { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 12px 14px; }
+  .metric .label { font-size: 12px; color: var(--muted); margin-bottom: 4px; }
+  .metric .value { font-size: 22px; font-weight: 600; }
+  .grid-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: 8px; background: var(--card); }
+  table { border-collapse: collapse; width: 100%; min-width: 900px; }
+  th, td { border: 1px solid var(--border); padding: 0; vertical-align: top; }
+  th { background: #fbfaf7; font-size: 12px; color: var(--muted); font-weight: 600; padding: 8px 6px; text-align: center; position: sticky; top: 0; }
+  th.weekend, td.weekend { background: var(--weekend); }
+  td.time-col { font-size: 12px; color: var(--muted); text-align: right; padding: 8px 8px; white-space: nowrap; background: #fbfaf7; position: sticky; left: 0; }
+  .cell { min-height: 56px; padding: 6px 8px; font-size: 12px; }
+  .cell.empty { color: #cbc9c0; text-align: center; padding: 16px 0; }
+  .cell .cls { font-weight: 600; margin-bottom: 2px; }
+  .cell .coach { color: var(--muted); margin-bottom: 4px; }
+  .badge {
+    display: inline-block; padding: 2px 6px; border-radius: 10px; font-size: 11px; font-weight: 600;
+  }
+  .cell.dim { opacity: 0.25; }
+  footer { margin-top: 18px; font-size: 12px; color: var(--muted); }
+  a { color: var(--accent-4); }
+</style>
+</head>
+<body>
 
+<header>
+  <h1>Suivi reservations - concurrent (Ile de Re)</h1>
+  <div class="sub" id="snapshot-info">Chargement...</div>
+</header>
+
+<div class="metrics" id="metrics"></div>
+
+<div class="toolbar">
+  <select id="coach-filter">
+    <option value="">Tous les coachs</option>
+  </select>
+  <div class="legend">
+    Places reservees :
+    <span class="legend-swatch" style="background:var(--accent-0)"></span>0
+    <span class="legend-swatch" style="background:var(--accent-1)"></span>1
+    <span class="legend-swatch" style="background:var(--accent-2)"></span>2
+    <span class="legend-swatch" style="background:var(--accent-3)"></span>3+
+    <span class="legend-swatch" style="background:var(--accent-4)"></span>complet
+  </div>
+</div>
+
+<div class="grid-wrap">
+  <table id="timetable"><tbody></tbody></table>
+</div>
+
+<footer id="footer-note"></footer>
+
+<script>
+const JOURS = ["Lundi","Mardi","Mercredi","Jeudi","Vendredi","Samedi","Dimanche"];
+
+function fillColor(booked, capacity) {
+  if (capacity && booked >= capacity) return "var(--accent-4)";
+  if (booked >= 3) return "var(--accent-3)";
+  if (booked === 2) return "var(--accent-2)";
+  if (booked === 1) return "var(--accent-1)";
+  return "var(--accent-0)";
+}
+
+function textColor(booked, capacity) {
+  return (capacity && booked >= capacity) || booked >= 3 ? "#fff" : "#1c1b19";
+}
+
+async function load() {
+  const res = await fetch('data/latest.json', { cache: 'no-store' });
+  const data = await res.json();
+  const sessions = data.sessions || [];
+
+  document.getElementById('snapshot-info').textContent =
+    'Derniere mise a jour : ' + data.snapshot_time + ' (heure serveur, UTC)';
+
+  // metrics
+  const cap = sessions.reduce((a, s) => a + (s.capacite || 0), 0);
+  const booked = sessions.reduce((a, s) => a + (s.places_reservees || 0), 0);
+  const fillPct = cap ? Math.round((100 * booked / cap) * 10) / 10 : 0;
+  document.getElementById('metrics').innerHTML = `
+    <div class="metric"><div class="label">Sessions ouvertes</div><div class="value">${sessions.length}</div></div>
+    <div class="metric"><div class="label">Places totales</div><div class="value">${cap}</div></div>
+    <div class="metric"><div class="label">Places reservees</div><div class="value">${booked}</div></div>
+    <div class="metric"><div class="label">Taux de remplissage</div><div class="value">${fillPct}%</div></div>
+  `;
+
+  // Anchor the grid on the current real-world week (Monday-Sunday), not on
+  // the earliest date in the file. latest.json now retains all past sessions
+  // too, so "earliest date" would just be whenever tracking started.
+  const today = new Date();
+  const jsToday = today.getDay(); // 0=Sun..6=Sat
+  const diffToMonday = jsToday === 0 ? -6 : 1 - jsToday;
+  const monday = new Date(today);
+  monday.setDate(today.getDate() + diffToMonday);
+  monday.setHours(12, 0, 0, 0);
+
+  const weekDates = [];
+  for (let i = 0; i < 7; i++) {
+    const d = new Date(monday);
+    d.setDate(monday.getDate() + i);
+    weekDates.push(d.toISOString().slice(0, 10));
+  }
+  const weekSessions = sessions.filter(s => weekDates.includes(s.date_session.slice(0, 10)));
+
+  // coach filter options
+  const coaches = [...new Set(weekSessions.map(s => s.coach).filter(Boolean))].sort();
+  const filterEl = document.getElementById('coach-filter');
+  coaches.forEach(c => {
+    const opt = document.createElement('option');
+    opt.value = c; opt.textContent = c;
+    filterEl.appendChild(opt);
+  });
+
+  // build time slots (unique HH:MM across the week, sorted)
+  const times = [...new Set(weekSessions.map(s => s.heure))].sort();
+
+  // map date -> weekday index, in the order the days actually occur
+  const dateToDay = {};
+  weekDates.forEach(d => {
+    const idx = JOURS[new Date(d + 'T12:00:00').getDay() === 0 ? 6 : new Date(d + 'T12:00:00').getDay() - 1];
+    dateToDay[d] = idx;
+  });
+
+  // index sessions by [time][date]
+  const byTimeDate = {};
+  weekSessions.forEach(s => {
+    const key = s.heure;
+    byTimeDate[key] = byTimeDate[key] || {};
+    const dateKey = s.date_session.slice(0, 10);
+    byTimeDate[key][dateKey] = s;
+  });
+
+  const table = document.getElementById('timetable');
+  let thead = '<tr><th></th>';
+  weekDates.forEach(d => {
+    const jsDay = new Date(d + 'T12:00:00').getDay();
+    const isWeekend = jsDay === 0 || jsDay === 6;
+    thead += `<th class="${isWeekend ? 'weekend' : ''}">${dateToDay[d]}<br>${d.slice(5)}</th>`;
+  });
+  thead += '</tr>';
+
+  let rows = '';
+  times.forEach(t => {
+    rows += `<tr><td class="time-col">${t}</td>`;
+    weekDates.forEach(d => {
+      const jsDay = new Date(d + 'T12:00:00').getDay();
+      const isWeekend = jsDay === 0 || jsDay === 6;
+      const s = (byTimeDate[t] || {})[d];
+      if (!s) {
+        rows += `<td class="${isWeekend ? 'weekend' : ''}"><div class="cell empty">-</div></td>`;
+      } else {
+        const bg = fillColor(s.places_reservees, s.capacite);
+        const fg = textColor(s.places_reservees, s.capacite);
+        rows += `<td class="${isWeekend ? 'weekend' : ''}">
+          <div class="cell" data-coach="${s.coach || ''}">
+            <div class="cls">${s.nom_session}</div>
+            <div class="coach">${s.coach || ''}</div>
+            <span class="badge" style="background:${bg};color:${fg}">${s.places_reservees}/${s.capacite}</span>
+          </div>
+        </td>`;
+      }
+    });
+    rows += '</tr>';
+  });
+
+  table.querySelector('tbody').innerHTML = thead + rows;
+
+  document.getElementById('footer-note').innerHTML =
+    `Semaine affichee : ${weekDates[0]} au ${weekDates[weekDates.length - 1]}. ` +
+    `Le planning se repete chaque semaine a l'identique (nouveaux coachs/annulations mis a jour quotidiennement).`;
+
+  filterEl.addEventListener('change', () => {
+    const val = filterEl.value;
+    document.querySelectorAll('.cell').forEach(c => {
+      if (!val) { c.classList.remove('dim'); return; }
+      c.classList.toggle('dim', c.dataset.coach !== val);
+    });
+  });
+}
+
+load().catch(err => {
+  document.getElementById('snapshot-info').textContent = 'Erreur de chargement des donnees : ' + err.message;
+});
+</script>
+
+</body>
+</html>
