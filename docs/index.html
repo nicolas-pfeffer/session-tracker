@@ -29,20 +29,30 @@
   header { margin-bottom: 20px; }
   h1 { font-size: 20px; font-weight: 600; margin: 0 0 4px; }
   .sub { font-size: 13px; color: var(--muted); }
+  .section-label { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: 0.03em; margin: 0 0 8px; }
   .toolbar {
-    display: flex; gap: 12px; align-items: center; flex-wrap: wrap;
-    margin: 16px 0 20px;
+    display: flex; gap: 16px; align-items: flex-end; flex-wrap: wrap;
+    margin: 4px 0 22px; background: var(--card); border: 1px solid var(--border);
+    border-radius: 8px; padding: 14px 16px;
   }
-  select {
+  .field { display: flex; flex-direction: column; gap: 4px; }
+  .field label { font-size: 11px; color: var(--muted); }
+  select, input[type="date"] {
     padding: 6px 10px; border: 1px solid var(--border); border-radius: 6px;
     background: var(--card); font-size: 13px; color: var(--text);
   }
+  button.reset {
+    padding: 7px 12px; border: 1px solid var(--border); border-radius: 6px;
+    background: #fbfaf7; font-size: 13px; color: var(--text); cursor: pointer;
+  }
+  button.reset:hover { background: var(--weekend); }
   .legend { display: flex; gap: 8px; align-items: center; font-size: 12px; color: var(--muted); margin-left: auto; }
   .legend-swatch { width: 14px; height: 14px; border-radius: 3px; display: inline-block; }
-  .metrics { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; margin-bottom: 22px; }
+  .metrics { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin-bottom: 8px; }
   .metric { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 12px 14px; }
   .metric .label { font-size: 12px; color: var(--muted); margin-bottom: 4px; }
   .metric .value { font-size: 22px; font-weight: 600; }
+  .metrics-note { font-size: 12px; color: var(--muted); margin: 0 0 22px; }
   .grid-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: 8px; background: var(--card); }
   table { border-collapse: collapse; width: 100%; min-width: 900px; }
   th, td { border: 1px solid var(--border); padding: 0; vertical-align: top; }
@@ -56,7 +66,7 @@
   .badge {
     display: inline-block; padding: 2px 6px; border-radius: 10px; font-size: 11px; font-weight: 600;
   }
-  .cell.dim { opacity: 0.25; }
+  .empty-state { padding: 40px 20px; text-align: center; color: var(--muted); font-size: 13px; }
   footer { margin-top: 18px; font-size: 12px; color: var(--muted); }
   a { color: var(--accent-4); }
 </style>
@@ -68,12 +78,27 @@
   <div class="sub" id="snapshot-info">Chargement...</div>
 </header>
 
+<p class="section-label">KPIs globaux (sessions deja realisees)</p>
 <div class="metrics" id="metrics"></div>
+<p class="metrics-note" id="metrics-note"></p>
 
+<p class="section-label">Planning</p>
 <div class="toolbar">
-  <select id="coach-filter">
-    <option value="">Tous les coachs</option>
-  </select>
+  <div class="field">
+    <label for="date-start">Du</label>
+    <input type="date" id="date-start">
+  </div>
+  <div class="field">
+    <label for="date-end">Au</label>
+    <input type="date" id="date-end">
+  </div>
+  <div class="field">
+    <label for="coach-filter">Coach</label>
+    <select id="coach-filter">
+      <option value="">Tous les coachs</option>
+    </select>
+  </div>
+  <button class="reset" id="reset-week">Semaine en cours</button>
   <div class="legend">
     Places reservees :
     <span class="legend-swatch" style="background:var(--accent-0)"></span>0
@@ -92,6 +117,7 @@
 
 <script>
 const JOURS = ["Lundi","Mardi","Mercredi","Jeudi","Vendredi","Samedi","Dimanche"];
+let ALL_SESSIONS = [];
 
 function fillColor(booked, capacity) {
   if (capacity && booked >= capacity) return "var(--accent-4)";
@@ -105,84 +131,104 @@ function textColor(booked, capacity) {
   return (capacity && booked >= capacity) || booked >= 3 ? "#fff" : "#1c1b19";
 }
 
-async function load() {
-  const res = await fetch('data/latest.json', { cache: 'no-store' });
-  const data = await res.json();
-  const sessions = data.sessions || [];
+function isoDate(d) {
+  return d.toISOString().slice(0, 10);
+}
 
-  document.getElementById('snapshot-info').textContent =
-    'Derniere mise a jour : ' + data.snapshot_time + ' (heure serveur, UTC)';
-
-  // metrics
-  const cap = sessions.reduce((a, s) => a + (s.capacite || 0), 0);
-  const booked = sessions.reduce((a, s) => a + (s.places_reservees || 0), 0);
-  const fillPct = cap ? Math.round((100 * booked / cap) * 10) / 10 : 0;
-  document.getElementById('metrics').innerHTML = `
-    <div class="metric"><div class="label">Sessions ouvertes</div><div class="value">${sessions.length}</div></div>
-    <div class="metric"><div class="label">Places totales</div><div class="value">${cap}</div></div>
-    <div class="metric"><div class="label">Places reservees</div><div class="value">${booked}</div></div>
-    <div class="metric"><div class="label">Taux de remplissage</div><div class="value">${fillPct}%</div></div>
-  `;
-
-  // Anchor the grid on the current real-world week (Monday-Sunday), not on
-  // the earliest date in the file. latest.json now retains all past sessions
-  // too, so "earliest date" would just be whenever tracking started.
+function currentWeekBounds() {
   const today = new Date();
   const jsToday = today.getDay(); // 0=Sun..6=Sat
   const diffToMonday = jsToday === 0 ? -6 : 1 - jsToday;
   const monday = new Date(today);
   monday.setDate(today.getDate() + diffToMonday);
   monday.setHours(12, 0, 0, 0);
+  const sunday = new Date(monday);
+  sunday.setDate(monday.getDate() + 6);
+  return { start: isoDate(monday), end: isoDate(sunday) };
+}
 
-  const weekDates = [];
-  for (let i = 0; i < 7; i++) {
-    const d = new Date(monday);
-    d.setDate(monday.getDate() + i);
-    weekDates.push(d.toISOString().slice(0, 10));
-  }
-  const weekSessions = sessions.filter(s => weekDates.includes(s.date_session.slice(0, 10)));
+function nowAsLocalString() {
+  const d = new Date();
+  const pad = n => String(n).padStart(2, '0');
+  return `${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())} ${pad(d.getHours())}:${pad(d.getMinutes())}:${pad(d.getSeconds())}`;
+}
 
-  // coach filter options
-  const coaches = [...new Set(weekSessions.map(s => s.coach).filter(Boolean))].sort();
-  const filterEl = document.getElementById('coach-filter');
-  coaches.forEach(c => {
-    const opt = document.createElement('option');
-    opt.value = c; opt.textContent = c;
-    filterEl.appendChild(opt);
-  });
+function renderKpis() {
+  const nowIso = nowAsLocalString();
+  const done = ALL_SESSIONS.filter(s => s.date_session < nowIso);
 
-  // build time slots (unique HH:MM across the week, sorted)
-  const times = [...new Set(weekSessions.map(s => s.heure))].sort();
+  const cap = done.reduce((a, s) => a + (s.capacite || 0), 0);
+  const booked = done.reduce((a, s) => a + (s.places_reservees || 0), 0);
+  const fillPct = cap ? Math.round((100 * booked / cap) * 10) / 10 : 0;
 
-  // map date -> weekday index, in the order the days actually occur
-  const dateToDay = {};
-  weekDates.forEach(d => {
-    const idx = JOURS[new Date(d + 'T12:00:00').getDay() === 0 ? 6 : new Date(d + 'T12:00:00').getDay() - 1];
-    dateToDay[d] = idx;
-  });
+  document.getElementById('metrics').innerHTML = `
+    <div class="metric"><div class="label">Sessions realisees</div><div class="value">${done.length}</div></div>
+    <div class="metric"><div class="label">Places totales</div><div class="value">${cap}</div></div>
+    <div class="metric"><div class="label">Places reservees</div><div class="value">${booked}</div></div>
+    <div class="metric"><div class="label">Taux de remplissage reel</div><div class="value">${fillPct}%</div></div>
+  `;
+  document.getElementById('metrics-note').textContent =
+    `Calcule sur les ${done.length} sessions deja passees (les sessions a venir ne sont pas encore completement reservees, elles fausseraient le taux).`;
+}
 
-  // index sessions by [time][date]
-  const byTimeDate = {};
-  weekSessions.forEach(s => {
-    const key = s.heure;
-    byTimeDate[key] = byTimeDate[key] || {};
-    const dateKey = s.date_session.slice(0, 10);
-    byTimeDate[key][dateKey] = s;
-  });
+function renderGrid() {
+  const startVal = document.getElementById('date-start').value;
+  const endVal = document.getElementById('date-end').value;
+  const coachVal = document.getElementById('coach-filter').value;
 
   const table = document.getElementById('timetable');
+  const footer = document.getElementById('footer-note');
+
+  if (!startVal || !endVal || startVal > endVal) {
+    table.innerHTML = '<tbody><tr><td class="empty-state">Choisissez une plage de dates valide.</td></tr></tbody>';
+    footer.textContent = '';
+    return;
+  }
+
+  const filtered = ALL_SESSIONS.filter(s => {
+    const d = s.date_session.slice(0, 10);
+    if (d < startVal || d > endVal) return false;
+    if (coachVal && s.coach !== coachVal) return false;
+    return true;
+  });
+
+  // build every calendar day in the selected range
+  const days = [];
+  const cursor = new Date(startVal + 'T12:00:00');
+  const end = new Date(endVal + 'T12:00:00');
+  while (cursor <= end) {
+    days.push(isoDate(cursor));
+    cursor.setDate(cursor.getDate() + 1);
+  }
+
+  if (!filtered.length) {
+    table.innerHTML = '<tbody><tr><td class="empty-state">Aucune session sur cette periode / ce coach.</td></tr></tbody>';
+    footer.textContent = `Periode affichee : ${startVal} au ${endVal}.`;
+    return;
+  }
+
+  const times = [...new Set(filtered.map(s => s.heure))].sort();
+
+  const byTimeDate = {};
+  filtered.forEach(s => {
+    const key = s.heure;
+    byTimeDate[key] = byTimeDate[key] || {};
+    byTimeDate[key][s.date_session.slice(0, 10)] = s;
+  });
+
   let thead = '<tr><th></th>';
-  weekDates.forEach(d => {
+  days.forEach(d => {
     const jsDay = new Date(d + 'T12:00:00').getDay();
     const isWeekend = jsDay === 0 || jsDay === 6;
-    thead += `<th class="${isWeekend ? 'weekend' : ''}">${dateToDay[d]}<br>${d.slice(5)}</th>`;
+    const dayName = JOURS[jsDay === 0 ? 6 : jsDay - 1];
+    thead += `<th class="${isWeekend ? 'weekend' : ''}">${dayName}<br>${d.slice(5)}</th>`;
   });
   thead += '</tr>';
 
   let rows = '';
   times.forEach(t => {
     rows += `<tr><td class="time-col">${t}</td>`;
-    weekDates.forEach(d => {
+    days.forEach(d => {
       const jsDay = new Date(d + 'T12:00:00').getDay();
       const isWeekend = jsDay === 0 || jsDay === 6;
       const s = (byTimeDate[t] || {})[d];
@@ -192,7 +238,7 @@ async function load() {
         const bg = fillColor(s.places_reservees, s.capacite);
         const fg = textColor(s.places_reservees, s.capacite);
         rows += `<td class="${isWeekend ? 'weekend' : ''}">
-          <div class="cell" data-coach="${s.coach || ''}">
+          <div class="cell">
             <div class="cls">${s.nom_session}</div>
             <div class="coach">${s.coach || ''}</div>
             <span class="badge" style="background:${bg};color:${fg}">${s.places_reservees}/${s.capacite}</span>
@@ -203,19 +249,45 @@ async function load() {
     rows += '</tr>';
   });
 
-  table.querySelector('tbody').innerHTML = thead + rows;
+  table.innerHTML = `<tbody>${thead}${rows}</tbody>`;
+  footer.textContent = `Periode affichee : ${startVal} au ${endVal}.` +
+    (coachVal ? ` Coach : ${coachVal}.` : '');
+}
 
-  document.getElementById('footer-note').innerHTML =
-    `Semaine affichee : ${weekDates[0]} au ${weekDates[weekDates.length - 1]}. ` +
-    `Le planning se repete chaque semaine a l'identique (nouveaux coachs/annulations mis a jour quotidiennement).`;
+async function load() {
+  const res = await fetch('data/latest.json', { cache: 'no-store' });
+  const data = await res.json();
+  ALL_SESSIONS = data.sessions || [];
 
-  filterEl.addEventListener('change', () => {
-    const val = filterEl.value;
-    document.querySelectorAll('.cell').forEach(c => {
-      if (!val) { c.classList.remove('dim'); return; }
-      c.classList.toggle('dim', c.dataset.coach !== val);
-    });
+  document.getElementById('snapshot-info').textContent =
+    'Derniere mise a jour : ' + data.snapshot_time + ' (heure serveur, UTC)';
+
+  renderKpis();
+
+  const coaches = [...new Set(ALL_SESSIONS.map(s => s.coach).filter(Boolean))].sort();
+  const filterEl = document.getElementById('coach-filter');
+  coaches.forEach(c => {
+    const opt = document.createElement('option');
+    opt.value = c; opt.textContent = c;
+    filterEl.appendChild(opt);
   });
+
+  const week = currentWeekBounds();
+  document.getElementById('date-start').value = week.start;
+  document.getElementById('date-end').value = week.end;
+
+  document.getElementById('date-start').addEventListener('change', renderGrid);
+  document.getElementById('date-end').addEventListener('change', renderGrid);
+  filterEl.addEventListener('change', renderGrid);
+  document.getElementById('reset-week').addEventListener('click', () => {
+    const w = currentWeekBounds();
+    document.getElementById('date-start').value = w.start;
+    document.getElementById('date-end').value = w.end;
+    filterEl.value = '';
+    renderGrid();
+  });
+
+  renderGrid();
 }
 
 load().catch(err => {
