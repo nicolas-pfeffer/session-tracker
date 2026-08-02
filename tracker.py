@@ -85,8 +85,20 @@ JOURS_FR = ["Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi", "Dimanc
 def to_record(s: Dict, snapshot_time: str) -> Dict:
     """Turn one raw API session into the flat record used everywhere else."""
     capacity = s.get("capacity") or 0
-    remaining = (s.get("remainingSpots") or {}).get("remaining", capacity)
-    booked = capacity - remaining
+
+    # remainingSpots used to carry the live count but the API now returns it
+    # as null on every session. ticketsSold is still populated and reliable,
+    # so use that directly instead of falling back to "capacity" (which
+    # silently produced a booked count of 0 for every session).
+    tickets_sold = s.get("ticketsSold")
+    if tickets_sold is not None:
+        booked = tickets_sold
+        remaining = max(capacity - booked, 0)
+    else:
+        remaining_spots = s.get("remainingSpots") or {}
+        remaining = remaining_spots.get("remaining", capacity)
+        booked = capacity - remaining
+
     fill_rate = round(100 * booked / capacity, 1) if capacity else 0
 
     dt_utc = None
