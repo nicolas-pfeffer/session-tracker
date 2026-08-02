@@ -98,7 +98,9 @@
       <option value="">Tous les coachs</option>
     </select>
   </div>
+  <button class="reset" id="prev-week">&larr; Semaine precedente</button>
   <button class="reset" id="reset-week">Semaine en cours</button>
+  <button class="reset" id="next-week">Semaine suivante &rarr;</button>
   <div class="legend">
     Places reservees :
     <span class="legend-swatch" style="background:var(--accent-0)"></span>0
@@ -254,6 +256,18 @@ function renderGrid() {
     (coachVal ? ` Coach : ${coachVal}.` : '');
 }
 
+function shiftWeek(days) {
+  const startEl = document.getElementById('date-start');
+  const endEl = document.getElementById('date-end');
+  const start = new Date((startEl.value || isoDate(new Date())) + 'T12:00:00');
+  const end = new Date((endEl.value || isoDate(new Date())) + 'T12:00:00');
+  start.setDate(start.getDate() + days);
+  end.setDate(end.getDate() + days);
+  startEl.value = isoDate(start);
+  endEl.value = isoDate(end);
+  renderGrid();
+}
+
 async function load() {
   const res = await fetch('data/latest.json', { cache: 'no-store' });
   const data = await res.json();
@@ -286,6 +300,8 @@ async function load() {
     filterEl.value = '';
     renderGrid();
   });
+  document.getElementById('prev-week').addEventListener('click', () => shiftWeek(-7));
+  document.getElementById('next-week').addEventListener('click', () => shiftWeek(7));
 
   renderGrid();
 }
