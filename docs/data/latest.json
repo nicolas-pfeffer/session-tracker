@@ -1,5 +1,5 @@
 {
-  "snapshot_time": "2026-08-02 16:42:35",
+  "snapshot_time": "2026-08-03 09:28:26",
   "sessions": [
     {
       "horodatage": "2026-07-23 08:15:23",
@@ -1037,7 +1037,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618704,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-03 17:00:00",
@@ -1052,7 +1052,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618807,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-03 18:00:00",
@@ -1061,13 +1061,13 @@
       "coach": "Eva Bernard",
       "lieu": "Reformer",
       "capacite": 4,
-      "places_restantes": 1,
-      "places_reservees": 3,
-      "taux_remplissage_pct": 75.0,
+      "places_restantes": 0,
+      "places_reservees": 4,
+      "taux_remplissage_pct": 100.0,
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137619206,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-03 19:00:00",
@@ -1082,7 +1082,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137619698,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-03 20:00:00",
@@ -1112,7 +1112,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138961684,
       "nom_session": "Sculpt ⭐️ Pilates Mat ",
       "date_session": "2026-08-04 08:00:00",
@@ -1121,9 +1121,9 @@
       "coach": "Dani Johnson",
       "lieu": "Mat",
       "capacite": 8,
-      "places_restantes": 8,
-      "places_reservees": 0,
-      "taux_remplissage_pct": 0.0,
+      "places_restantes": 7,
+      "places_reservees": 1,
+      "taux_remplissage_pct": 12.5,
       "liste_attente_pleine": false
     },
     {
@@ -1142,7 +1142,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138961695,
       "nom_session": "Fondation 2 ⭐️ Pilates Mat ",
       "date_session": "2026-08-04 09:00:00",
@@ -1172,7 +1172,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138961733,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-08-04 10:00:00",
@@ -1202,7 +1202,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620205,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-04 12:15:00",
@@ -1217,7 +1217,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620363,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-04 13:15:00",
@@ -1232,7 +1232,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620311,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-08-04 14:30:00",
@@ -1247,7 +1247,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620422,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-04 16:00:00",
@@ -1262,7 +1262,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620475,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-04 17:00:00",
@@ -1277,7 +1277,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620529,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-04 18:00:00",
@@ -1286,13 +1286,13 @@
       "coach": "Léa Aveline",
       "lieu": "Reformer",
       "capacite": 4,
-      "places_restantes": 2,
-      "places_reservees": 2,
-      "taux_remplissage_pct": 50.0,
+      "places_restantes": 1,
+      "places_reservees": 3,
+      "taux_remplissage_pct": 75.0,
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620585,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-04 19:00:00",
@@ -1307,7 +1307,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684442,
       "nom_session": "Sculpt ⭐️ Pilates Mat ",
       "date_session": "2026-08-05 12:15:00",
@@ -1316,13 +1316,13 @@
       "coach": "Léa Aveline",
       "lieu": "Mat",
       "capacite": 8,
-      "places_restantes": 5,
-      "places_reservees": 3,
-      "taux_remplissage_pct": 37.5,
+      "places_restantes": 6,
+      "places_reservees": 2,
+      "taux_remplissage_pct": 25.0,
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679563,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-05 12:15:00",
@@ -1337,7 +1337,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684513,
       "nom_session": "Soft & Stretch ⭐️ Pilates Mat",
       "date_session": "2026-08-05 13:15:00",
@@ -1352,7 +1352,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679716,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-08-05 13:15:00",
@@ -1367,7 +1367,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684669,
       "nom_session": "Sculpt ⭐️ Pilates Mat ",
       "date_session": "2026-08-05 14:30:00",
@@ -1382,22 +1382,22 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680222,
-      "nom_session": "Dynamic Fit 🤎 Reformer",
+      "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-05 14:30:00",
       "jour_semaine": "Mercredi",
       "heure": "14:30",
       "coach": "Sabine  Forêt ",
       "lieu": "Reformer",
       "capacite": 4,
-      "places_restantes": 4,
-      "places_reservees": 0,
-      "taux_remplissage_pct": 0.0,
+      "places_restantes": 3,
+      "places_reservees": 1,
+      "taux_remplissage_pct": 25.0,
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680337,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-05 17:00:00",
@@ -1412,7 +1412,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680394,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-05 18:00:00",
@@ -1427,7 +1427,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680446,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-05 19:00:00",
@@ -1442,7 +1442,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680502,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-05 20:00:00",
@@ -1457,7 +1457,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680561,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-06 09:15:00",
@@ -1472,7 +1472,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680725,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-06 10:15:00",
@@ -1487,7 +1487,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680670,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-06 11:15:00",
@@ -1502,7 +1502,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680786,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-06 12:15:00",
@@ -1510,14 +1510,14 @@
       "heure": "12:15",
       "coach": "Eva Bernard",
       "lieu": "Reformer",
-      "capacite": 4,
-      "places_restantes": 4,
-      "places_reservees": 0,
-      "taux_remplissage_pct": 0.0,
+      "capacite": 1,
+      "places_restantes": 0,
+      "places_reservees": 1,
+      "taux_remplissage_pct": 100.0,
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403741,
       "nom_session": "Flow Trio ⭐️ Pilates Mat",
       "date_session": "2026-08-06 12:15:00",
@@ -1532,7 +1532,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403747,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-08-06 13:15:00",
@@ -1541,13 +1541,13 @@
       "coach": "Aveline Caminade",
       "lieu": "Mat",
       "capacite": 8,
-      "places_restantes": 8,
-      "places_reservees": 0,
-      "taux_remplissage_pct": 0.0,
+      "places_restantes": 7,
+      "places_reservees": 1,
+      "taux_remplissage_pct": 12.5,
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680848,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-06 13:30:00",
@@ -1562,7 +1562,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403755,
       "nom_session": "Fondation 2 ⭐️ Pilates Mat ",
       "date_session": "2026-08-06 14:30:00",
@@ -1577,7 +1577,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403826,
       "nom_session": "Fondation 1 ⭐️ Pilates Mat",
       "date_session": "2026-08-06 15:30:00",
@@ -1592,7 +1592,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680952,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-06 17:00:00",
@@ -1607,7 +1607,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681008,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-06 18:00:00",
@@ -1622,7 +1622,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681164,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-06 19:00:00",
@@ -1637,7 +1637,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681215,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-08-06 20:00:00",
@@ -1652,7 +1652,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681575,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-07 08:00:00",
@@ -1667,7 +1667,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681626,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-07 09:00:00",
@@ -1682,7 +1682,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681679,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-07 10:00:00",
@@ -1697,7 +1697,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681745,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-07 12:15:00",
@@ -1712,7 +1712,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681801,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-07 13:15:00",
@@ -1727,7 +1727,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681278,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-07 15:00:00",
@@ -1742,7 +1742,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681325,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-07 16:00:00",
@@ -1757,7 +1757,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681432,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-08-07 17:00:00",
@@ -1772,7 +1772,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681487,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-07 18:00:00",
@@ -1787,7 +1787,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682623,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-08 09:00:00",
@@ -1802,7 +1802,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682663,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-08 10:00:00",
@@ -1817,7 +1817,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682719,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-08 11:00:00",
@@ -1832,7 +1832,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682794,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-08-08 12:00:00",
@@ -1847,7 +1847,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682839,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-09 09:00:00",
@@ -1862,7 +1862,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137683010,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-09 10:00:00",
@@ -1877,7 +1877,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137683066,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-09 11:00:00",
@@ -1892,7 +1892,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682949,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-09 12:00:00",
@@ -1907,7 +1907,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137617871,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-10 07:00:00",
@@ -1922,7 +1922,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618004,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-10 08:00:00",
@@ -1937,7 +1937,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138838572,
       "nom_session": "Fondation 2 ⭐️ Pilates Mat ",
       "date_session": "2026-08-10 08:00:00",
@@ -1952,7 +1952,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618258,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-10 09:00:00",
@@ -1967,7 +1967,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138838626,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-08-10 09:00:00",
@@ -1982,7 +1982,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138838686,
       "nom_session": "Fondation 1 ⭐️ Pilates Mat",
       "date_session": "2026-08-10 10:00:00",
@@ -2057,7 +2057,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618705,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-10 17:00:00",
@@ -2072,7 +2072,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618809,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-10 18:00:00",
@@ -2087,7 +2087,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137619312,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-10 19:00:00",
@@ -2102,7 +2102,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137619699,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-10 20:00:00",
@@ -2132,7 +2132,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138838750,
       "nom_session": "Flow Trio ⭐️ Pilates Mat",
       "date_session": "2026-08-11 08:00:00",
@@ -2162,7 +2162,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138839507,
       "nom_session": "Fondation 2 ⭐️ Pilates Mat ",
       "date_session": "2026-08-11 09:00:00",
@@ -2192,7 +2192,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138839555,
       "nom_session": "Core & Tone ⭐️ Pilates Mat ",
       "date_session": "2026-08-11 10:00:00",
@@ -2222,7 +2222,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620207,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-11 12:15:00",
@@ -2237,7 +2237,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620364,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-11 13:15:00",
@@ -2252,7 +2252,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620312,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-08-11 14:30:00",
@@ -2267,7 +2267,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620423,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-11 16:00:00",
@@ -2282,7 +2282,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620480,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-11 17:00:00",
@@ -2297,7 +2297,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620542,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-08-11 18:00:00",
@@ -2312,7 +2312,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620584,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-11 19:00:00",
@@ -2327,7 +2327,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137683519,
       "nom_session": "Fondation 2 ⭐️ Pilates Mat ",
       "date_session": "2026-08-12 08:00:00",
@@ -2342,7 +2342,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679432,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-12 09:00:00",
@@ -2357,7 +2357,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137683574,
       "nom_session": "Core & Tone ⭐️ Pilates Mat ",
       "date_session": "2026-08-12 09:00:00",
@@ -2372,7 +2372,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679508,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-08-12 11:00:00",
@@ -2387,7 +2387,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684447,
       "nom_session": "Sculpt ⭐️ Pilates Mat ",
       "date_session": "2026-08-12 12:15:00",
@@ -2402,7 +2402,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679562,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-12 12:15:00",
@@ -2417,7 +2417,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684519,
       "nom_session": "Soft & Stretch ⭐️ Pilates Mat",
       "date_session": "2026-08-12 13:15:00",
@@ -2432,7 +2432,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679709,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-08-12 13:15:00",
@@ -2447,7 +2447,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684671,
       "nom_session": "Sculpt ⭐️ Pilates Mat ",
       "date_session": "2026-08-12 14:30:00",
@@ -2462,7 +2462,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680338,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-12 17:00:00",
@@ -2477,7 +2477,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680393,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-12 18:00:00",
@@ -2492,7 +2492,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680453,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-12 19:00:00",
@@ -2507,7 +2507,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680505,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-12 20:00:00",
@@ -2522,7 +2522,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680562,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-13 09:15:00",
@@ -2537,7 +2537,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680726,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-13 10:15:00",
@@ -2552,7 +2552,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680671,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-08-13 11:15:00",
@@ -2567,7 +2567,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680787,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-13 12:15:00",
@@ -2582,7 +2582,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403743,
       "nom_session": "Flow Trio ⭐️ Pilates Mat",
       "date_session": "2026-08-13 12:15:00",
@@ -2597,7 +2597,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403746,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-08-13 13:15:00",
@@ -2612,7 +2612,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680844,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-13 13:30:00",
@@ -2627,7 +2627,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403754,
       "nom_session": "Fondation 2 ⭐️ Pilates Mat ",
       "date_session": "2026-08-13 14:30:00",
@@ -2642,7 +2642,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403825,
       "nom_session": "Fondation 1 ⭐️ Pilates Mat",
       "date_session": "2026-08-13 15:30:00",
@@ -2657,7 +2657,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680953,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-13 17:00:00",
@@ -2672,7 +2672,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681010,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-13 18:00:00",
@@ -2687,7 +2687,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681163,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-13 19:00:00",
@@ -2702,7 +2702,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681220,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-08-13 20:00:00",
@@ -2717,7 +2717,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681573,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-14 08:00:00",
@@ -2732,7 +2732,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138839628,
       "nom_session": "Soft & Stretch ⭐️ Pilates Mat",
       "date_session": "2026-08-14 08:00:00",
@@ -2747,7 +2747,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681629,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-14 09:00:00",
@@ -2762,7 +2762,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138839753,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-08-14 09:00:00",
@@ -2777,7 +2777,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681680,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-14 10:00:00",
@@ -2792,7 +2792,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138839680,
       "nom_session": "Fondation 1 ⭐️ Pilates Mat",
       "date_session": "2026-08-14 10:00:00",
@@ -2807,7 +2807,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138839836,
       "nom_session": "Fondation 1 ⭐️ Pilates Mat",
       "date_session": "2026-08-14 11:00:00",
@@ -2822,7 +2822,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681744,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-14 12:15:00",
@@ -2837,7 +2837,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684205,
       "nom_session": "Soft & Stretch ⭐️ Pilates Mat",
       "date_session": "2026-08-14 13:00:00",
@@ -2852,7 +2852,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681802,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-14 13:15:00",
@@ -2867,7 +2867,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684260,
       "nom_session": "Flow Trio ⭐️ Pilates Mat",
       "date_session": "2026-08-14 14:00:00",
@@ -2882,7 +2882,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681297,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-14 15:00:00",
@@ -2897,7 +2897,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684324,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-08-14 15:00:00",
@@ -2912,7 +2912,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681327,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-14 16:00:00",
@@ -2927,7 +2927,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684376,
       "nom_session": "Sculpt ⭐️ Pilates Mat ",
       "date_session": "2026-08-14 16:00:00",
@@ -2942,7 +2942,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681430,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-08-14 17:00:00",
@@ -2957,7 +2957,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681492,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-14 18:00:00",
@@ -2972,7 +2972,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682625,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-15 09:00:00",
@@ -2987,7 +2987,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682666,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-15 10:00:00",
@@ -3002,7 +3002,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682724,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-15 11:00:00",
@@ -3017,7 +3017,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682789,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-08-15 12:00:00",
@@ -3032,7 +3032,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682843,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-16 09:00:00",
@@ -3047,7 +3047,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137683008,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-16 10:00:00",
@@ -3062,7 +3062,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137683060,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-16 11:00:00",
@@ -3077,7 +3077,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682951,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-16 12:00:00",
@@ -3092,7 +3092,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137617872,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-17 07:00:00",
@@ -3107,7 +3107,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618006,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-17 08:00:00",
@@ -3122,7 +3122,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138838573,
       "nom_session": "Fondation 2 ⭐️ Pilates Mat ",
       "date_session": "2026-08-17 08:00:00",
@@ -3137,7 +3137,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618259,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-17 09:00:00",
@@ -3152,7 +3152,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138838627,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-08-17 09:00:00",
@@ -3167,7 +3167,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138838685,
       "nom_session": "Fondation 1 ⭐️ Pilates Mat",
       "date_session": "2026-08-17 10:00:00",
@@ -3182,7 +3182,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618327,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-17 11:00:00",
@@ -3197,7 +3197,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618383,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-17 12:15:00",
@@ -3212,7 +3212,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620258,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-17 13:15:00",
@@ -3227,7 +3227,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618587,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-08-17 14:30:00",
@@ -3242,7 +3242,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618706,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-17 17:00:00",
@@ -3257,7 +3257,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618810,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-17 18:00:00",
@@ -3272,7 +3272,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137619235,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-17 19:00:00",
@@ -3287,7 +3287,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137619702,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-17 20:00:00",
@@ -3302,7 +3302,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137619927,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-18 07:00:00",
@@ -3317,7 +3317,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137619971,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-18 08:00:00",
@@ -3332,7 +3332,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138838751,
       "nom_session": "Flow Trio ⭐️ Pilates Mat",
       "date_session": "2026-08-18 08:00:00",
@@ -3347,7 +3347,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620076,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-18 09:00:00",
@@ -3362,7 +3362,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138839496,
       "nom_session": "Fondation 2 ⭐️ Pilates Mat ",
       "date_session": "2026-08-18 09:00:00",
@@ -3377,7 +3377,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620026,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-18 10:00:00",
@@ -3392,7 +3392,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138839564,
       "nom_session": "Core & Tone ⭐️ Pilates Mat ",
       "date_session": "2026-08-18 10:00:00",
@@ -3407,7 +3407,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620208,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-18 12:15:00",
@@ -3422,7 +3422,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620365,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-18 13:15:00",
@@ -3437,7 +3437,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620321,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-08-18 14:30:00",
@@ -3452,7 +3452,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620421,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-18 16:00:00",
@@ -3467,7 +3467,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620477,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-18 17:00:00",
@@ -3482,7 +3482,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620536,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-08-18 18:00:00",
@@ -3497,7 +3497,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620582,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-18 19:00:00",
@@ -3512,7 +3512,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679299,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-19 07:00:00",
@@ -3527,7 +3527,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679367,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-19 08:00:00",
@@ -3542,7 +3542,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137683517,
       "nom_session": "Fondation 2 ⭐️ Pilates Mat ",
       "date_session": "2026-08-19 08:00:00",
@@ -3557,7 +3557,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679430,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-19 09:00:00",
@@ -3572,7 +3572,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137683575,
       "nom_session": "Core & Tone ⭐️ Pilates Mat ",
       "date_session": "2026-08-19 09:00:00",
@@ -3587,7 +3587,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137683636,
       "nom_session": "Fondation 1 ⭐️ Pilates Mat",
       "date_session": "2026-08-19 10:00:00",
@@ -3602,7 +3602,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679506,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-08-19 11:00:00",
@@ -3617,7 +3617,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137683915,
       "nom_session": "Core & Tone ⭐️ Pilates Mat ",
       "date_session": "2026-08-19 11:00:00",
@@ -3632,7 +3632,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679561,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-19 12:15:00",
@@ -3647,7 +3647,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684443,
       "nom_session": "Sculpt ⭐️ Pilates Mat ",
       "date_session": "2026-08-19 12:15:00",
@@ -3662,7 +3662,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679741,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-08-19 13:15:00",
@@ -3677,7 +3677,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684516,
       "nom_session": "Soft & Stretch ⭐️ Pilates Mat",
       "date_session": "2026-08-19 13:15:00",
@@ -3692,7 +3692,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680225,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-19 14:30:00",
@@ -3707,7 +3707,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684675,
       "nom_session": "Sculpt ⭐️ Pilates Mat ",
       "date_session": "2026-08-19 14:30:00",
@@ -3722,7 +3722,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680335,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-19 17:00:00",
@@ -3737,7 +3737,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680395,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-19 18:00:00",
@@ -3752,7 +3752,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680447,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-19 19:00:00",
@@ -3767,7 +3767,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680503,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-19 20:00:00",
@@ -3782,7 +3782,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680564,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-20 09:15:00",
@@ -3797,7 +3797,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680733,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-20 10:15:00",
@@ -3812,7 +3812,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680672,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-08-20 11:15:00",
@@ -3827,7 +3827,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403744,
       "nom_session": "Flow Trio ⭐️ Pilates Mat",
       "date_session": "2026-08-20 12:15:00",
@@ -3842,7 +3842,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680788,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-20 12:15:00",
@@ -3857,7 +3857,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403748,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-08-20 13:15:00",
@@ -3872,7 +3872,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680841,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-20 13:30:00",
@@ -3887,7 +3887,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403757,
       "nom_session": "Fondation 2 ⭐️ Pilates Mat ",
       "date_session": "2026-08-20 14:30:00",
@@ -3902,7 +3902,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403824,
       "nom_session": "Fondation 1 ⭐️ Pilates Mat",
       "date_session": "2026-08-20 15:30:00",
@@ -3917,7 +3917,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680957,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-20 17:00:00",
@@ -3932,7 +3932,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681011,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-20 18:00:00",
@@ -3947,7 +3947,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681165,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-20 19:00:00",
@@ -3962,7 +3962,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681217,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-08-20 20:00:00",
@@ -3977,7 +3977,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681574,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-21 08:00:00",
@@ -3992,7 +3992,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138839629,
       "nom_session": "Soft & Stretch ⭐️ Pilates Mat",
       "date_session": "2026-08-21 08:00:00",
@@ -4007,7 +4007,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681635,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-21 09:00:00",
@@ -4022,7 +4022,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138839754,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-08-21 09:00:00",
@@ -4037,7 +4037,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681681,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-21 10:00:00",
@@ -4052,7 +4052,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138839684,
       "nom_session": "Fondation 1 ⭐️ Pilates Mat",
       "date_session": "2026-08-21 10:00:00",
@@ -4067,7 +4067,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138839837,
       "nom_session": "Fondation 1 ⭐️ Pilates Mat",
       "date_session": "2026-08-21 11:00:00",
@@ -4082,7 +4082,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681746,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-21 12:15:00",
@@ -4097,7 +4097,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684206,
       "nom_session": "Soft & Stretch ⭐️ Pilates Mat",
       "date_session": "2026-08-21 13:00:00",
@@ -4112,7 +4112,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681800,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-21 13:15:00",
@@ -4127,7 +4127,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684265,
       "nom_session": "Flow Trio ⭐️ Pilates Mat",
       "date_session": "2026-08-21 14:00:00",
@@ -4142,7 +4142,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681316,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-21 15:00:00",
@@ -4157,7 +4157,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684328,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-08-21 15:00:00",
@@ -4172,7 +4172,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681326,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-21 16:00:00",
@@ -4187,7 +4187,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684379,
       "nom_session": "Sculpt ⭐️ Pilates Mat ",
       "date_session": "2026-08-21 16:00:00",
@@ -4202,7 +4202,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681433,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-08-21 17:00:00",
@@ -4217,7 +4217,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681486,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-21 18:00:00",
@@ -4232,7 +4232,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682606,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-22 09:00:00",
@@ -4247,7 +4247,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682670,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-22 10:00:00",
@@ -4262,7 +4262,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682727,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-22 11:00:00",
@@ -4277,7 +4277,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682787,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-08-22 12:00:00",
@@ -4292,7 +4292,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682842,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-23 09:00:00",
@@ -4307,7 +4307,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137683005,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-23 10:00:00",
@@ -4322,7 +4322,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137683069,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-23 11:00:00",
@@ -4337,7 +4337,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682953,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-23 12:00:00",
@@ -4352,7 +4352,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137617873,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-24 07:00:00",
@@ -4367,7 +4367,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618010,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-24 08:00:00",
@@ -4382,7 +4382,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138838578,
       "nom_session": "Fondation 2 ⭐️ Pilates Mat ",
       "date_session": "2026-08-24 08:00:00",
@@ -4397,7 +4397,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618263,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-24 09:00:00",
@@ -4412,7 +4412,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138838628,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-08-24 09:00:00",
@@ -4427,7 +4427,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138838683,
       "nom_session": "Fondation 1 ⭐️ Pilates Mat",
       "date_session": "2026-08-24 10:00:00",
@@ -4442,7 +4442,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618330,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-24 11:00:00",
@@ -4457,7 +4457,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618386,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-24 12:15:00",
@@ -4472,7 +4472,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620260,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-24 13:15:00",
@@ -4487,7 +4487,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618585,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-08-24 14:30:00",
@@ -4502,7 +4502,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618708,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-24 17:00:00",
@@ -4517,7 +4517,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618814,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-24 18:00:00",
@@ -4532,7 +4532,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137619311,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-24 19:00:00",
@@ -4547,7 +4547,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137619700,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-24 20:00:00",
@@ -4562,7 +4562,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137619911,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-25 07:00:00",
@@ -4577,7 +4577,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137619978,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-25 08:00:00",
@@ -4592,7 +4592,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138838753,
       "nom_session": "Flow Trio ⭐️ Pilates Mat",
       "date_session": "2026-08-25 08:00:00",
@@ -4607,7 +4607,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620080,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-25 09:00:00",
@@ -4622,7 +4622,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138839501,
       "nom_session": "Fondation 2 ⭐️ Pilates Mat ",
       "date_session": "2026-08-25 09:00:00",
@@ -4637,7 +4637,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620028,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-25 10:00:00",
@@ -4652,7 +4652,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138839586,
       "nom_session": "Core & Tone ⭐️ Pilates Mat ",
       "date_session": "2026-08-25 10:00:00",
@@ -4667,7 +4667,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620209,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-25 12:15:00",
@@ -4682,7 +4682,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620369,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-25 13:15:00",
@@ -4697,7 +4697,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620314,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-08-25 14:30:00",
@@ -4712,7 +4712,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620430,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-25 16:00:00",
@@ -4727,7 +4727,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620481,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-25 17:00:00",
@@ -4742,7 +4742,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620535,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-08-25 18:00:00",
@@ -4757,7 +4757,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620614,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-25 19:00:00",
@@ -4772,7 +4772,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679291,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-26 07:00:00",
@@ -4787,7 +4787,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679366,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-26 08:00:00",
@@ -4802,7 +4802,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137683522,
       "nom_session": "Fondation 2 ⭐️ Pilates Mat ",
       "date_session": "2026-08-26 08:00:00",
@@ -4817,7 +4817,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679448,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-26 09:00:00",
@@ -4832,7 +4832,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137683576,
       "nom_session": "Core & Tone ⭐️ Pilates Mat ",
       "date_session": "2026-08-26 09:00:00",
@@ -4847,7 +4847,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137683640,
       "nom_session": "Fondation 1 ⭐️ Pilates Mat",
       "date_session": "2026-08-26 10:00:00",
@@ -4862,7 +4862,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679509,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-08-26 11:00:00",
@@ -4877,7 +4877,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137683930,
       "nom_session": "Core & Tone ⭐️ Pilates Mat ",
       "date_session": "2026-08-26 11:00:00",
@@ -4892,7 +4892,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679564,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-26 12:15:00",
@@ -4907,7 +4907,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684452,
       "nom_session": "Sculpt ⭐️ Pilates Mat ",
       "date_session": "2026-08-26 12:15:00",
@@ -4922,7 +4922,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679720,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-08-26 13:15:00",
@@ -4937,7 +4937,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684514,
       "nom_session": "Soft & Stretch ⭐️ Pilates Mat",
       "date_session": "2026-08-26 13:15:00",
@@ -4952,7 +4952,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680226,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-26 14:30:00",
@@ -4967,7 +4967,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684676,
       "nom_session": "Sculpt ⭐️ Pilates Mat ",
       "date_session": "2026-08-26 14:30:00",
@@ -4982,7 +4982,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680343,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-26 17:00:00",
@@ -4997,7 +4997,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680400,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-26 18:00:00",
@@ -5012,7 +5012,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680448,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-26 19:00:00",
@@ -5027,7 +5027,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680501,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-26 20:00:00",
@@ -5042,7 +5042,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680559,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-27 09:15:00",
@@ -5057,7 +5057,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680727,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-27 10:15:00",
@@ -5072,7 +5072,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680680,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-08-27 11:15:00",
@@ -5087,7 +5087,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680793,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-27 12:15:00",
@@ -5102,7 +5102,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403745,
       "nom_session": "Flow Trio ⭐️ Pilates Mat",
       "date_session": "2026-08-27 12:15:00",
@@ -5117,7 +5117,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403749,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-08-27 13:15:00",
@@ -5132,7 +5132,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680840,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-27 13:30:00",
@@ -5147,7 +5147,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403756,
       "nom_session": "Fondation 2 ⭐️ Pilates Mat ",
       "date_session": "2026-08-27 14:30:00",
@@ -5162,7 +5162,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403827,
       "nom_session": "Fondation 1 ⭐️ Pilates Mat",
       "date_session": "2026-08-27 15:30:00",
@@ -5177,7 +5177,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680956,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-27 17:00:00",
@@ -5192,7 +5192,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681009,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-27 18:00:00",
@@ -5207,7 +5207,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681168,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-27 19:00:00",
@@ -5222,7 +5222,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681219,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-08-27 20:00:00",
@@ -5237,7 +5237,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681580,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-28 08:00:00",
@@ -5252,7 +5252,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138839630,
       "nom_session": "Soft & Stretch ⭐️ Pilates Mat",
       "date_session": "2026-08-28 08:00:00",
@@ -5267,7 +5267,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681628,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-28 09:00:00",
@@ -5282,7 +5282,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138839756,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-08-28 09:00:00",
@@ -5297,7 +5297,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681682,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-28 10:00:00",
@@ -5312,7 +5312,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138839682,
       "nom_session": "Fondation 1 ⭐️ Pilates Mat",
       "date_session": "2026-08-28 10:00:00",
@@ -5327,7 +5327,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138839838,
       "nom_session": "Fondation 1 ⭐️ Pilates Mat",
       "date_session": "2026-08-28 11:00:00",
@@ -5342,7 +5342,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681747,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-28 12:15:00",
@@ -5357,7 +5357,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684214,
       "nom_session": "Soft & Stretch ⭐️ Pilates Mat",
       "date_session": "2026-08-28 13:00:00",
@@ -5372,7 +5372,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681811,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-28 13:15:00",
@@ -5387,7 +5387,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684263,
       "nom_session": "Flow Trio ⭐️ Pilates Mat",
       "date_session": "2026-08-28 14:00:00",
@@ -5402,7 +5402,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681296,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-28 15:00:00",
@@ -5417,7 +5417,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684325,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-08-28 15:00:00",
@@ -5432,7 +5432,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681330,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-28 16:00:00",
@@ -5447,7 +5447,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684381,
       "nom_session": "Sculpt ⭐️ Pilates Mat ",
       "date_session": "2026-08-28 16:00:00",
@@ -5462,7 +5462,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681434,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-08-28 17:00:00",
@@ -5477,7 +5477,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681491,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-08-28 18:00:00",
@@ -5492,7 +5492,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682656,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-29 09:00:00",
@@ -5507,7 +5507,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682665,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-29 10:00:00",
@@ -5522,7 +5522,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682721,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-29 11:00:00",
@@ -5537,7 +5537,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682785,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-08-29 12:00:00",
@@ -5552,7 +5552,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682840,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-30 09:00:00",
@@ -5567,7 +5567,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137683006,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-30 10:00:00",
@@ -5582,7 +5582,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137683063,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-30 11:00:00",
@@ -5597,7 +5597,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682956,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-30 12:00:00",
@@ -5612,7 +5612,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137617874,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-31 07:00:00",
@@ -5627,7 +5627,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618009,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-31 08:00:00",
@@ -5642,7 +5642,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618260,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-31 09:00:00",
@@ -5657,7 +5657,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138838687,
       "nom_session": "Fondation 1 ⭐️ Pilates Mat",
       "date_session": "2026-08-31 10:00:00",
@@ -5672,7 +5672,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618331,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-31 11:00:00",
@@ -5687,7 +5687,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618388,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-31 12:15:00",
@@ -5702,7 +5702,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138839966,
       "nom_session": "Fondation 1 ⭐️ Pilates Mat",
       "date_session": "2026-08-31 12:15:00",
@@ -5717,7 +5717,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620281,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-08-31 13:15:00",
@@ -5732,7 +5732,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138840024,
       "nom_session": "Core & Tone ⭐️ Pilates Mat ",
       "date_session": "2026-08-31 13:15:00",
@@ -5747,7 +5747,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618588,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-08-31 14:30:00",
@@ -5762,7 +5762,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618709,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-08-31 17:00:00",
@@ -5777,7 +5777,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618812,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-31 18:00:00",
@@ -5792,7 +5792,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137619211,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-08-31 19:00:00",
@@ -5807,7 +5807,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137619712,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-08-31 20:00:00",
@@ -5822,7 +5822,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137619906,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-01 07:00:00",
@@ -5837,7 +5837,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137619987,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-09-01 08:00:00",
@@ -5852,7 +5852,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620077,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-09-01 09:00:00",
@@ -5867,7 +5867,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620027,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-09-01 10:00:00",
@@ -5882,7 +5882,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620212,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-01 12:15:00",
@@ -5897,7 +5897,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138840096,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-09-01 12:15:00",
@@ -5912,7 +5912,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620366,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-09-01 13:15:00",
@@ -5927,7 +5927,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138840170,
       "nom_session": "Fondation 2 ⭐️ Pilates Mat ",
       "date_session": "2026-09-01 13:15:00",
@@ -5942,7 +5942,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620313,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-09-01 14:30:00",
@@ -5957,7 +5957,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620427,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-09-01 16:00:00",
@@ -5972,7 +5972,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620476,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-01 17:00:00",
@@ -5987,7 +5987,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620530,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-09-01 18:00:00",
@@ -6002,7 +6002,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620589,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-09-01 19:00:00",
@@ -6017,7 +6017,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679290,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-09-02 07:00:00",
@@ -6032,7 +6032,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679371,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-09-02 08:00:00",
@@ -6047,7 +6047,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679433,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-02 09:00:00",
@@ -6062,7 +6062,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137683633,
       "nom_session": "Fondation 1 ⭐️ Pilates Mat",
       "date_session": "2026-09-02 10:00:00",
@@ -6077,7 +6077,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679507,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-09-02 11:00:00",
@@ -6092,7 +6092,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137683909,
       "nom_session": "Core & Tone ⭐️ Pilates Mat ",
       "date_session": "2026-09-02 11:00:00",
@@ -6107,7 +6107,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679566,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-02 12:15:00",
@@ -6122,7 +6122,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684444,
       "nom_session": "Sculpt ⭐️ Pilates Mat ",
       "date_session": "2026-09-02 12:15:00",
@@ -6137,7 +6137,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679731,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-09-02 13:15:00",
@@ -6152,7 +6152,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684515,
       "nom_session": "Soft & Stretch ⭐️ Pilates Mat",
       "date_session": "2026-09-02 13:15:00",
@@ -6167,7 +6167,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680223,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-09-02 14:30:00",
@@ -6182,7 +6182,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684673,
       "nom_session": "Sculpt ⭐️ Pilates Mat ",
       "date_session": "2026-09-02 14:30:00",
@@ -6197,7 +6197,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403553,
       "nom_session": "Core & Tone ⭐️ Pilates Mat ",
       "date_session": "2026-09-02 16:00:00",
@@ -6212,7 +6212,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680340,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-09-02 17:00:00",
@@ -6227,7 +6227,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403606,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-09-02 17:00:00",
@@ -6242,7 +6242,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680396,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-02 18:00:00",
@@ -6257,7 +6257,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403689,
       "nom_session": "Sculpt ⭐️ Pilates Mat ",
       "date_session": "2026-09-02 18:00:00",
@@ -6272,7 +6272,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680450,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-09-02 19:00:00",
@@ -6287,7 +6287,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680506,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-09-02 20:00:00",
@@ -6302,7 +6302,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680570,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-03 09:15:00",
@@ -6317,7 +6317,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680729,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-09-03 10:15:00",
@@ -6332,7 +6332,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680677,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-09-03 11:15:00",
@@ -6347,7 +6347,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680801,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-09-03 12:15:00",
@@ -6362,7 +6362,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680842,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-09-03 13:30:00",
@@ -6377,7 +6377,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680954,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-09-03 17:00:00",
@@ -6392,7 +6392,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681016,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-09-03 18:00:00",
@@ -6407,7 +6407,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681166,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-09-03 19:00:00",
@@ -6422,7 +6422,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681218,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-09-03 20:00:00",
@@ -6437,7 +6437,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681577,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-04 08:00:00",
@@ -6452,7 +6452,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681632,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-09-04 09:00:00",
@@ -6467,7 +6467,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681683,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-09-04 10:00:00",
@@ -6482,7 +6482,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684383,
       "nom_session": "Sculpt ⭐️ Pilates Mat ",
       "date_session": "2026-09-04 12:00:00",
@@ -6497,7 +6497,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681749,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-09-04 12:15:00",
@@ -6512,7 +6512,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684208,
       "nom_session": "Soft & Stretch ⭐️ Pilates Mat",
       "date_session": "2026-09-04 13:00:00",
@@ -6527,7 +6527,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681805,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-04 13:15:00",
@@ -6542,7 +6542,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684264,
       "nom_session": "Flow Trio ⭐️ Pilates Mat",
       "date_session": "2026-09-04 14:00:00",
@@ -6557,7 +6557,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681318,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-04 15:00:00",
@@ -6572,7 +6572,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684323,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-09-04 15:00:00",
@@ -6587,7 +6587,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681338,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-09-04 16:00:00",
@@ -6602,7 +6602,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681438,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-09-04 17:00:00",
@@ -6617,7 +6617,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681490,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-09-04 18:00:00",
@@ -6632,7 +6632,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682647,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-05 09:00:00",
@@ -6647,7 +6647,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682664,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-09-05 10:00:00",
@@ -6662,7 +6662,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682722,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-09-05 11:00:00",
@@ -6677,7 +6677,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682797,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-09-05 12:00:00",
@@ -6692,7 +6692,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682853,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-06 09:00:00",
@@ -6707,7 +6707,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137683015,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-06 10:00:00",
@@ -6722,7 +6722,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137683065,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-09-06 11:00:00",
@@ -6737,7 +6737,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682952,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-09-06 12:00:00",
@@ -6752,7 +6752,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137617875,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-07 07:00:00",
@@ -6767,7 +6767,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618007,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-09-07 08:00:00",
@@ -6782,7 +6782,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618261,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-09-07 09:00:00",
@@ -6797,7 +6797,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138838684,
       "nom_session": "Fondation 1 ⭐️ Pilates Mat",
       "date_session": "2026-09-07 10:00:00",
@@ -6812,7 +6812,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618348,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-09-07 11:00:00",
@@ -6827,7 +6827,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138839967,
       "nom_session": "Fondation 1 ⭐️ Pilates Mat",
       "date_session": "2026-09-07 12:15:00",
@@ -6842,7 +6842,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618389,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-07 12:15:00",
@@ -6857,7 +6857,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138840025,
       "nom_session": "Core & Tone ⭐️ Pilates Mat ",
       "date_session": "2026-09-07 13:15:00",
@@ -6872,7 +6872,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620262,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-09-07 13:15:00",
@@ -6887,7 +6887,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618586,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-09-07 14:30:00",
@@ -6902,7 +6902,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618713,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-07 17:00:00",
@@ -6917,7 +6917,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137618811,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-09-07 18:00:00",
@@ -6932,7 +6932,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137619177,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-09-07 19:00:00",
@@ -6947,7 +6947,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137619706,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-09-07 20:00:00",
@@ -6962,7 +6962,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137619907,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-08 07:00:00",
@@ -6977,7 +6977,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137619979,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-09-08 08:00:00",
@@ -6992,7 +6992,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620086,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-09-08 09:00:00",
@@ -7007,7 +7007,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620031,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-09-08 10:00:00",
@@ -7022,7 +7022,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138840098,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-09-08 12:15:00",
@@ -7037,7 +7037,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620210,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-08 12:15:00",
@@ -7052,7 +7052,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138840168,
       "nom_session": "Fondation 2 ⭐️ Pilates Mat ",
       "date_session": "2026-09-08 13:15:00",
@@ -7067,7 +7067,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620374,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-09-08 13:15:00",
@@ -7082,7 +7082,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620315,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-09-08 14:30:00",
@@ -7097,7 +7097,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620425,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-09-08 16:00:00",
@@ -7112,7 +7112,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620479,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-08 17:00:00",
@@ -7127,7 +7127,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620546,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-09-08 18:00:00",
@@ -7142,7 +7142,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137620583,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-09-08 19:00:00",
@@ -7157,7 +7157,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679292,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-09-09 07:00:00",
@@ -7172,7 +7172,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679372,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-09-09 08:00:00",
@@ -7187,7 +7187,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679434,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-09 09:00:00",
@@ -7202,7 +7202,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679505,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-09-09 11:00:00",
@@ -7217,7 +7217,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679567,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-09 12:15:00",
@@ -7232,7 +7232,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684446,
       "nom_session": "Sculpt ⭐️ Pilates Mat ",
       "date_session": "2026-09-09 12:15:00",
@@ -7247,7 +7247,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679730,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-09-09 13:15:00",
@@ -7262,7 +7262,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684518,
       "nom_session": "Soft & Stretch ⭐️ Pilates Mat",
       "date_session": "2026-09-09 13:15:00",
@@ -7277,7 +7277,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680224,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-09-09 14:30:00",
@@ -7292,7 +7292,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684672,
       "nom_session": "Sculpt ⭐️ Pilates Mat ",
       "date_session": "2026-09-09 14:30:00",
@@ -7307,7 +7307,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403550,
       "nom_session": "Core & Tone ⭐️ Pilates Mat ",
       "date_session": "2026-09-09 16:00:00",
@@ -7322,7 +7322,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403609,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-09-09 17:00:00",
@@ -7337,7 +7337,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680341,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-09-09 17:00:00",
@@ -7352,7 +7352,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403694,
       "nom_session": "Sculpt ⭐️ Pilates Mat ",
       "date_session": "2026-09-09 18:00:00",
@@ -7367,7 +7367,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680397,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-09 18:00:00",
@@ -7382,7 +7382,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680449,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-09-09 19:00:00",
@@ -7397,7 +7397,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680504,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-09-09 20:00:00",
@@ -7412,7 +7412,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680563,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-10 09:15:00",
@@ -7427,7 +7427,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680728,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-09-10 10:15:00",
@@ -7442,7 +7442,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680686,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-09-10 11:15:00",
@@ -7457,7 +7457,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680790,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-09-10 12:15:00",
@@ -7472,7 +7472,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680847,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-09-10 13:30:00",
@@ -7487,7 +7487,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680959,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-09-10 17:00:00",
@@ -7502,7 +7502,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681006,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-09-10 18:00:00",
@@ -7517,7 +7517,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681174,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-09-10 19:00:00",
@@ -7532,7 +7532,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681229,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-09-10 20:00:00",
@@ -7547,7 +7547,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681578,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-11 08:00:00",
@@ -7562,7 +7562,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681630,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-09-11 09:00:00",
@@ -7577,7 +7577,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681684,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-09-11 10:00:00",
@@ -7592,7 +7592,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684382,
       "nom_session": "Sculpt ⭐️ Pilates Mat ",
       "date_session": "2026-09-11 12:00:00",
@@ -7607,7 +7607,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681748,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-09-11 12:15:00",
@@ -7622,7 +7622,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684207,
       "nom_session": "Soft & Stretch ⭐️ Pilates Mat",
       "date_session": "2026-09-11 13:00:00",
@@ -7637,7 +7637,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681803,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-11 13:15:00",
@@ -7652,7 +7652,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684267,
       "nom_session": "Flow Trio ⭐️ Pilates Mat",
       "date_session": "2026-09-11 14:00:00",
@@ -7667,7 +7667,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681285,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-11 15:00:00",
@@ -7682,7 +7682,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684359,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-09-11 15:00:00",
@@ -7697,7 +7697,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681352,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-09-11 16:00:00",
@@ -7712,7 +7712,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681436,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-09-11 17:00:00",
@@ -7727,7 +7727,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137681489,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-09-11 18:00:00",
@@ -7742,7 +7742,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682639,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-12 09:00:00",
@@ -7757,7 +7757,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682668,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-09-12 10:00:00",
@@ -7772,7 +7772,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682726,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-09-12 11:00:00",
@@ -7787,7 +7787,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682792,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-09-12 12:00:00",
@@ -7802,7 +7802,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682850,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-13 09:00:00",
@@ -7817,7 +7817,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137683009,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-13 10:00:00",
@@ -7832,7 +7832,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137683064,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-09-13 11:00:00",
@@ -7847,7 +7847,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137682954,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-09-13 12:00:00",
@@ -7862,7 +7862,52 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
+      "id_session": 137617876,
+      "nom_session": "Fondation 2 🤎 Reformer",
+      "date_session": "2026-09-14 07:00:00",
+      "jour_semaine": "Lundi",
+      "heure": "07:00",
+      "coach": "Nathalie Hamm",
+      "lieu": "Reformer",
+      "capacite": 8,
+      "places_restantes": 8,
+      "places_reservees": 0,
+      "taux_remplissage_pct": 0.0,
+      "liste_attente_pleine": false
+    },
+    {
+      "horodatage": "2026-08-03 09:28:26",
+      "id_session": 137618005,
+      "nom_session": "Sculpt 🤎 Reformer",
+      "date_session": "2026-09-14 08:00:00",
+      "jour_semaine": "Lundi",
+      "heure": "08:00",
+      "coach": "Nathalie Hamm",
+      "lieu": "Reformer",
+      "capacite": 8,
+      "places_restantes": 8,
+      "places_reservees": 0,
+      "taux_remplissage_pct": 0.0,
+      "liste_attente_pleine": false
+    },
+    {
+      "horodatage": "2026-08-03 09:28:26",
+      "id_session": 137618262,
+      "nom_session": "Dynamic Fit 🤎 Reformer",
+      "date_session": "2026-09-14 09:00:00",
+      "jour_semaine": "Lundi",
+      "heure": "09:00",
+      "coach": "Nathalie Hamm",
+      "lieu": "Reformer",
+      "capacite": 8,
+      "places_restantes": 8,
+      "places_reservees": 0,
+      "taux_remplissage_pct": 0.0,
+      "liste_attente_pleine": false
+    },
+    {
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138838699,
       "nom_session": "Fondation 1 ⭐️ Pilates Mat",
       "date_session": "2026-09-14 10:00:00",
@@ -7877,7 +7922,22 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
+      "id_session": 137618337,
+      "nom_session": "Core & Tone 🤎 Reformer",
+      "date_session": "2026-09-14 11:00:00",
+      "jour_semaine": "Lundi",
+      "heure": "11:00",
+      "coach": "Nathalie Hamm",
+      "lieu": "Reformer",
+      "capacite": 8,
+      "places_restantes": 8,
+      "places_reservees": 0,
+      "taux_remplissage_pct": 0.0,
+      "liste_attente_pleine": false
+    },
+    {
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138839968,
       "nom_session": "Fondation 1 ⭐️ Pilates Mat",
       "date_session": "2026-09-14 12:15:00",
@@ -7892,7 +7952,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138840026,
       "nom_session": "Core & Tone ⭐️ Pilates Mat ",
       "date_session": "2026-09-14 13:15:00",
@@ -7907,7 +7967,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138840097,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-09-15 12:15:00",
@@ -7922,7 +7982,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138840171,
       "nom_session": "Fondation 2 ⭐️ Pilates Mat ",
       "date_session": "2026-09-15 13:15:00",
@@ -7937,7 +7997,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679302,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-09-16 07:00:00",
@@ -7952,7 +8012,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679374,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-09-16 08:00:00",
@@ -7967,7 +8027,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679439,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-09-16 09:00:00",
@@ -7982,7 +8042,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679510,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-09-16 11:00:00",
@@ -7997,7 +8057,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137680227,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-09-16 14:30:00",
@@ -8012,7 +8072,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403554,
       "nom_session": "Core & Tone ⭐️ Pilates Mat ",
       "date_session": "2026-09-16 16:00:00",
@@ -8027,7 +8087,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403607,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-09-16 17:00:00",
@@ -8042,7 +8102,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138403668,
       "nom_session": "Sculpt ⭐️ Pilates Mat ",
       "date_session": "2026-09-16 18:00:00",
@@ -8057,7 +8117,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684380,
       "nom_session": "Sculpt ⭐️ Pilates Mat ",
       "date_session": "2026-09-18 12:00:00",
@@ -8072,7 +8132,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684211,
       "nom_session": "Soft & Stretch ⭐️ Pilates Mat",
       "date_session": "2026-09-18 13:00:00",
@@ -8087,7 +8147,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684266,
       "nom_session": "Flow Trio ⭐️ Pilates Mat",
       "date_session": "2026-09-18 14:00:00",
@@ -8102,7 +8162,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137684338,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-09-18 15:00:00",
@@ -8117,7 +8177,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 138838688,
       "nom_session": "Fondation 1 ⭐️ Pilates Mat",
       "date_session": "2026-09-21 10:00:00",
@@ -8132,7 +8192,22 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
+      "id_session": 137618333,
+      "nom_session": "Core & Tone 🤎 Reformer",
+      "date_session": "2026-09-21 11:00:00",
+      "jour_semaine": "Lundi",
+      "heure": "11:00",
+      "coach": "Nathalie Hamm",
+      "lieu": "Reformer",
+      "capacite": 8,
+      "places_restantes": 8,
+      "places_reservees": 0,
+      "taux_remplissage_pct": 0.0,
+      "liste_attente_pleine": false
+    },
+    {
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679296,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-09-23 07:00:00",
@@ -8147,7 +8222,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-08-02 16:42:35",
+      "horodatage": "2026-08-03 09:28:26",
       "id_session": 137679373,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-09-23 08:00:00",
