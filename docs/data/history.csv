@@ -42778,3 +42778,429 @@ horodatage,id_session,nom_session,date_session,jour_semaine,heure,coach,lieu,cap
 2026-10-22 00:32:14,137680463,Core & Tone 🤎 Reformer,2026-12-02 19:00:00,Mercredi,19:00,Léa Aveline,Reformer,7,7,0,0.0,False
 2026-10-22 00:32:14,137680513,Fondation 1 🤎 Reformer,2026-12-02 20:00:00,Mercredi,20:00,Léa Aveline,Reformer,7,7,0,0.0,False
 2026-10-22 00:32:14,138838695,Fondation 1 ⭐️ Pilates Mat,2026-12-07 10:00:00,Lundi,10:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,138839638,Soft & Stretch ⭐️ Pilates Mat,2026-10-23 08:00:00,Vendredi,08:00,Dani Johnson,Mat,8,7,1,12.5,False
+2026-10-23 00:29:02,137681634,Fondation 1 🤎 Reformer,2026-10-23 09:00:00,Vendredi,09:00,Léa Aveline,Reformer,7,5,2,28.6,False
+2026-10-23 00:29:02,138839760,Dynamic Fit ⭐️ Pilates Mat,2026-10-23 09:00:00,Vendredi,09:00,Dani Johnson,Mat,8,7,1,12.5,False
+2026-10-23 00:29:02,137681691,Core & Tone 🤎 Reformer,2026-10-23 10:00:00,Vendredi,10:00,Léa Aveline,Reformer,7,5,2,28.6,False
+2026-10-23 00:29:02,137681755,Core & Tone 🤎 Reformer,2026-10-23 12:15:00,Vendredi,12:15,Léa Aveline,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,137681314,Fondation 2 🤎 Reformer,2026-10-23 15:00:00,Vendredi,15:00,Nathalie Hamm,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,137681335,Sculpt 🤎 Reformer,2026-10-23 16:00:00,Vendredi,16:00,Nathalie Hamm,Reformer,7,5,2,28.6,False
+2026-10-23 00:29:02,137682618,Sculpt 🤎 Reformer,2026-10-24 09:00:00,Samedi,09:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682679,Core & Tone 🤎 Reformer,2026-10-24 10:00:00,Samedi,10:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682731,Dynamic Fit 🤎 Reformer,2026-10-24 11:00:00,Samedi,11:00,Léa Aveline,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,137682808,Flow Trio 🤎 Reformer,2026-10-24 12:00:00,Samedi,12:00,Léa Aveline,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,137682859,Fondation 2 🤎 Reformer,2026-10-25 09:00:00,Dimanche,09:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137683017,Fondation 2 🤎 Reformer,2026-10-25 10:00:00,Dimanche,10:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137683072,Dynamic Fit 🤎 Reformer,2026-10-25 11:00:00,Dimanche,11:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682972,Core & Tone 🤎 Reformer,2026-10-25 12:00:00,Dimanche,12:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137617881,Fondation 2 🤎 Reformer,2026-10-26 07:00:00,Lundi,07:00,Nathalie Hamm,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,137618023,Sculpt 🤎 Reformer,2026-10-26 08:00:00,Lundi,08:00,Nathalie Hamm,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,138838579,Fondation 2 ⭐️ Pilates Mat ,2026-10-26 08:00:00,Lundi,08:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137618266,Dynamic Fit 🤎 Reformer,2026-10-26 09:00:00,Lundi,09:00,Nathalie Hamm,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,138838637,Dynamic Fit ⭐️ Pilates Mat,2026-10-26 09:00:00,Lundi,09:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,138838689,Fondation 1 ⭐️ Pilates Mat,2026-10-26 10:00:00,Lundi,10:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137618338,Core & Tone 🤎 Reformer,2026-10-26 11:00:00,Lundi,11:00,Nathalie Hamm,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,137618402,Fondation 2 🤎 Reformer,2026-10-26 12:15:00,Lundi,12:15,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620270,Dynamic Fit 🤎 Reformer,2026-10-26 13:15:00,Lundi,13:15,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618596,Soft & Stretch 🤎 Reformer,2026-10-26 14:30:00,Lundi,14:30,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618715,Fondation 2 🤎 Reformer,2026-10-26 17:00:00,Lundi,17:00,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618817,Sculpt 🤎 Reformer,2026-10-26 18:00:00,Lundi,18:00,Eva Bernard,Reformer,7,3,4,57.1,False
+2026-10-23 00:29:02,137619327,Fondation 1 🤎 Reformer,2026-10-26 19:00:00,Lundi,19:00,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137619711,Sculpt 🤎 Reformer,2026-10-26 20:00:00,Lundi,20:00,Eva Bernard,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,137619919,Flow Trio 🤎 Reformer,2026-10-27 07:00:00,Mardi,07:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137619982,Core & Tone 🤎 Reformer,2026-10-27 08:00:00,Mardi,08:00,Nathalie Hamm,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,138838760,Flow Trio ⭐️ Pilates Mat,2026-10-27 08:00:00,Mardi,08:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137620082,Fondation 1 🤎 Reformer,2026-10-27 09:00:00,Mardi,09:00,Nathalie Hamm,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,138839476,Fondation 2 ⭐️ Pilates Mat ,2026-10-27 09:00:00,Mardi,09:00,Dani Johnson,Mat,8,6,2,25.0,False
+2026-10-23 00:29:02,137620041,Sculpt 🤎 Reformer,2026-10-27 10:00:00,Mardi,10:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,138839576,Core & Tone ⭐️ Pilates Mat ,2026-10-27 10:00:00,Mardi,10:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137620222,Fondation 2 🤎 Reformer,2026-10-27 12:15:00,Mardi,12:15,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,138840105,Dynamic Fit ⭐️ Pilates Mat,2026-10-27 12:15:00,Mardi,12:15,JEAN DUTARTRE,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137620378,Dynamic Fit 🤎 Reformer,2026-10-27 13:15:00,Mardi,13:15,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,138840175,Fondation 2 ⭐️ Pilates Mat ,2026-10-27 13:15:00,Mardi,13:15,JEAN DUTARTRE,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137620316,Soft & Stretch 🤎 Reformer,2026-10-27 14:30:00,Mardi,14:30,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620433,Core & Tone 🤎 Reformer,2026-10-27 16:00:00,Mardi,16:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620488,Fondation 2 🤎 Reformer,2026-10-27 17:00:00,Mardi,17:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620538,Flow Trio 🤎 Reformer,2026-10-27 18:00:00,Mardi,18:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620612,Sculpt 🤎 Reformer,2026-10-27 19:00:00,Mardi,19:00,Léa Aveline,Reformer,7,5,2,28.6,False
+2026-10-23 00:29:02,137679326,Sculpt 🤎 Reformer,2026-10-28 07:00:00,Mercredi,07:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679375,Core & Tone 🤎 Reformer,2026-10-28 08:00:00,Mercredi,08:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679436,Fondation 2 🤎 Reformer,2026-10-28 09:00:00,Mercredi,09:00,Nathalie Hamm,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,137679511,Soft & Stretch 🤎 Reformer,2026-10-28 11:00:00,Mercredi,11:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679577,Fondation 2 🤎 Reformer,2026-10-28 12:15:00,Mercredi,12:15,Nathalie Hamm,Reformer,7,5,2,28.6,False
+2026-10-23 00:29:02,137684453,Sculpt ⭐️ Pilates Mat ,2026-10-28 12:15:00,Mercredi,12:15,Léa Aveline,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137679756,Flow Trio 🤎 Reformer,2026-10-28 13:15:00,Mercredi,13:15,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684545,Soft & Stretch ⭐️ Pilates Mat,2026-10-28 13:15:00,Mercredi,13:15,Léa Aveline,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,143067115,Dynamic Fit 🤎 Reformer,2026-10-28 14:30:00,Mercredi,14:30,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684683,Sculpt ⭐️ Pilates Mat ,2026-10-28 14:30:00,Mercredi,14:30,Léa Aveline,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137680358,Sculpt 🤎 Reformer,2026-10-28 17:00:00,Mercredi,17:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680418,Fondation 2 🤎 Reformer,2026-10-28 18:00:00,Mercredi,18:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680455,Core & Tone 🤎 Reformer,2026-10-28 19:00:00,Mercredi,19:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680512,Fondation 1 🤎 Reformer,2026-10-28 20:00:00,Mercredi,20:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680573,Fondation 2 🤎 Reformer,2026-10-29 09:15:00,Jeudi,09:15,Eva Bernard,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,137680736,Core & Tone 🤎 Reformer,2026-10-29 10:15:00,Jeudi,10:15,Eva Bernard,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,137680679,Fondation 2 🤎 Reformer,2026-10-29 11:15:00,Jeudi,11:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680796,Fondation 1 🤎 Reformer,2026-10-29 12:15:00,Jeudi,12:15,Eva Bernard,Reformer,7,5,2,28.6,False
+2026-10-23 00:29:02,137680860,Dynamic Fit 🤎 Reformer,2026-10-29 13:15:00,Jeudi,13:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680963,Sculpt 🤎 Reformer,2026-10-29 17:00:00,Jeudi,17:00,Justin Robert,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681035,Dynamic Fit 🤎 Reformer,2026-10-29 18:00:00,Jeudi,18:00,Justin Robert,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,137681188,Fondation 1 🤎 Reformer,2026-10-29 19:00:00,Jeudi,19:00,Justin Robert,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681237,Sculpt 🤎 Reformer,2026-10-29 20:00:00,Jeudi,20:00,Justin Robert,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681592,Fondation 2 🤎 Reformer,2026-10-30 08:00:00,Vendredi,08:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,138839639,Soft & Stretch ⭐️ Pilates Mat,2026-10-30 08:00:00,Vendredi,08:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137681639,Fondation 1 🤎 Reformer,2026-10-30 09:00:00,Vendredi,09:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,138839765,Dynamic Fit ⭐️ Pilates Mat,2026-10-30 09:00:00,Vendredi,09:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137681689,Core & Tone 🤎 Reformer,2026-10-30 10:00:00,Vendredi,10:00,Léa Aveline,Reformer,7,3,4,57.1,False
+2026-10-23 00:29:02,138839691,Fondation 1 ⭐️ Pilates Mat,2026-10-30 10:00:00,Vendredi,10:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,138839845,Fondation 1 ⭐️ Pilates Mat,2026-10-30 11:00:00,Vendredi,11:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137684388,Sculpt ⭐️ Pilates Mat ,2026-10-30 12:00:00,Vendredi,12:00,Laetitia johan,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137681756,Core & Tone 🤎 Reformer,2026-10-30 12:15:00,Vendredi,12:15,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684213,Soft & Stretch ⭐️ Pilates Mat,2026-10-30 13:00:00,Vendredi,13:00,Laetitia johan,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137681806,Fondation 2 🤎 Reformer,2026-10-30 13:15:00,Vendredi,13:15,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684273,Flow Trio ⭐️ Pilates Mat,2026-10-30 14:00:00,Vendredi,14:00,Laetitia johan,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137681301,Fondation 2 🤎 Reformer,2026-10-30 15:00:00,Vendredi,15:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684363,Dynamic Fit ⭐️ Pilates Mat,2026-10-30 15:00:00,Vendredi,15:00,Laetitia johan,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137681334,Sculpt 🤎 Reformer,2026-10-30 16:00:00,Vendredi,16:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681439,Flow Trio 🤎 Reformer,2026-10-30 17:00:00,Vendredi,17:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681497,Fondation 1 🤎 Reformer,2026-10-30 18:00:00,Vendredi,18:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682604,Sculpt 🤎 Reformer,2026-10-31 09:00:00,Samedi,09:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682673,Core & Tone 🤎 Reformer,2026-10-31 10:00:00,Samedi,10:00,Nathalie Hamm,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,137682725,Dynamic Fit 🤎 Reformer,2026-10-31 11:00:00,Samedi,11:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682798,Flow Trio 🤎 Reformer,2026-10-31 12:00:00,Samedi,12:00,Nathalie Hamm,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,137682849,Fondation 2 🤎 Reformer,2026-11-01 09:00:00,Dimanche,09:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137683021,Fondation 2 🤎 Reformer,2026-11-01 10:00:00,Dimanche,10:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137683076,Dynamic Fit 🤎 Reformer,2026-11-01 11:00:00,Dimanche,11:00,Nathalie Hamm,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,137682958,Core & Tone 🤎 Reformer,2026-11-01 12:00:00,Dimanche,12:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137617883,Fondation 2 🤎 Reformer,2026-11-02 07:00:00,Lundi,07:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618012,Sculpt 🤎 Reformer,2026-11-02 08:00:00,Lundi,08:00,Nathalie Hamm,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,138838592,Fondation 2 ⭐️ Pilates Mat ,2026-11-02 08:00:00,Lundi,08:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137618274,Dynamic Fit 🤎 Reformer,2026-11-02 09:00:00,Lundi,09:00,Nathalie Hamm,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,138838632,Dynamic Fit ⭐️ Pilates Mat,2026-11-02 09:00:00,Lundi,09:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,138838691,Fondation 1 ⭐️ Pilates Mat,2026-11-02 10:00:00,Lundi,10:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137618335,Core & Tone 🤎 Reformer,2026-11-02 11:00:00,Lundi,11:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618392,Fondation 2 🤎 Reformer,2026-11-02 12:15:00,Lundi,12:15,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620269,Dynamic Fit 🤎 Reformer,2026-11-02 13:15:00,Lundi,13:15,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618613,Soft & Stretch 🤎 Reformer,2026-11-02 14:30:00,Lundi,14:30,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618717,Fondation 2 🤎 Reformer,2026-11-02 17:00:00,Lundi,17:00,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618826,Sculpt 🤎 Reformer,2026-11-02 18:00:00,Lundi,18:00,Eva Bernard,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,137619331,Fondation 1 🤎 Reformer,2026-11-02 19:00:00,Lundi,19:00,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137619705,Sculpt 🤎 Reformer,2026-11-02 20:00:00,Lundi,20:00,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137619914,Flow Trio 🤎 Reformer,2026-11-03 07:00:00,Mardi,07:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137619999,Core & Tone 🤎 Reformer,2026-11-03 08:00:00,Mardi,08:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,138838758,Flow Trio ⭐️ Pilates Mat,2026-11-03 08:00:00,Mardi,08:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137620114,Fondation 1 🤎 Reformer,2026-11-03 09:00:00,Mardi,09:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,138839477,Fondation 2 ⭐️ Pilates Mat ,2026-11-03 09:00:00,Mardi,09:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137620033,Sculpt 🤎 Reformer,2026-11-03 10:00:00,Mardi,10:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,138839599,Core & Tone ⭐️ Pilates Mat ,2026-11-03 10:00:00,Mardi,10:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137620215,Fondation 2 🤎 Reformer,2026-11-03 12:15:00,Mardi,12:15,Léa Aveline,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,138840103,Dynamic Fit ⭐️ Pilates Mat,2026-11-03 12:15:00,Mardi,12:15,JEAN DUTARTRE,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137620371,Dynamic Fit 🤎 Reformer,2026-11-03 13:15:00,Mardi,13:15,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,138840181,Fondation 2 ⭐️ Pilates Mat ,2026-11-03 13:15:00,Mardi,13:15,JEAN DUTARTRE,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137620329,Soft & Stretch 🤎 Reformer,2026-11-03 14:30:00,Mardi,14:30,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620435,Core & Tone 🤎 Reformer,2026-11-03 16:00:00,Mardi,16:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620499,Fondation 2 🤎 Reformer,2026-11-03 17:00:00,Mardi,17:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620537,Flow Trio 🤎 Reformer,2026-11-03 18:00:00,Mardi,18:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620607,Sculpt 🤎 Reformer,2026-11-03 19:00:00,Mardi,19:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679297,Sculpt 🤎 Reformer,2026-11-04 07:00:00,Mercredi,07:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679369,Core & Tone 🤎 Reformer,2026-11-04 08:00:00,Mercredi,08:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679459,Fondation 2 🤎 Reformer,2026-11-04 09:00:00,Mercredi,09:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679523,Soft & Stretch 🤎 Reformer,2026-11-04 11:00:00,Mercredi,11:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679582,Fondation 2 🤎 Reformer,2026-11-04 12:15:00,Mercredi,12:15,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684458,Sculpt ⭐️ Pilates Mat ,2026-11-04 12:15:00,Mercredi,12:15,Léa Aveline,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137679723,Flow Trio 🤎 Reformer,2026-11-04 13:15:00,Mercredi,13:15,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684524,Soft & Stretch ⭐️ Pilates Mat,2026-11-04 13:15:00,Mercredi,13:15,Léa Aveline,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,143458410,Dynamic Fit 🤎 Reformer,2026-11-04 14:30:00,Mercredi,14:30,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684686,Sculpt ⭐️ Pilates Mat ,2026-11-04 14:30:00,Mercredi,14:30,Léa Aveline,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137680345,Sculpt 🤎 Reformer,2026-11-04 17:00:00,Mercredi,17:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680403,Fondation 2 🤎 Reformer,2026-11-04 18:00:00,Mercredi,18:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680462,Core & Tone 🤎 Reformer,2026-11-04 19:00:00,Mercredi,19:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680510,Fondation 1 🤎 Reformer,2026-11-04 20:00:00,Mercredi,20:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680581,Fondation 2 🤎 Reformer,2026-11-05 09:15:00,Jeudi,09:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680737,Core & Tone 🤎 Reformer,2026-11-05 10:15:00,Jeudi,10:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680682,Fondation 2 🤎 Reformer,2026-11-05 11:15:00,Jeudi,11:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680799,Fondation 1 🤎 Reformer,2026-11-05 12:15:00,Jeudi,12:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680852,Dynamic Fit 🤎 Reformer,2026-11-05 13:15:00,Jeudi,13:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680965,Sculpt 🤎 Reformer,2026-11-05 17:00:00,Jeudi,17:00,Justin Robert,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681014,Dynamic Fit 🤎 Reformer,2026-11-05 18:00:00,Jeudi,18:00,Justin Robert,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681178,Fondation 1 🤎 Reformer,2026-11-05 19:00:00,Jeudi,19:00,Justin Robert,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681224,Sculpt 🤎 Reformer,2026-11-05 20:00:00,Jeudi,20:00,Justin Robert,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681585,Fondation 2 🤎 Reformer,2026-11-06 08:00:00,Vendredi,08:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,138839644,Soft & Stretch ⭐️ Pilates Mat,2026-11-06 08:00:00,Vendredi,08:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137681633,Fondation 1 🤎 Reformer,2026-11-06 09:00:00,Vendredi,09:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,138839772,Dynamic Fit ⭐️ Pilates Mat,2026-11-06 09:00:00,Vendredi,09:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137681692,Core & Tone 🤎 Reformer,2026-11-06 10:00:00,Vendredi,10:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,138839696,Fondation 1 ⭐️ Pilates Mat,2026-11-06 10:00:00,Vendredi,10:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,138839850,Fondation 1 ⭐️ Pilates Mat,2026-11-06 11:00:00,Vendredi,11:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137684400,Sculpt ⭐️ Pilates Mat ,2026-11-06 12:00:00,Vendredi,12:00,Laetitia johan,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137681757,Core & Tone 🤎 Reformer,2026-11-06 12:15:00,Vendredi,12:15,Léa Aveline,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,137684236,Soft & Stretch ⭐️ Pilates Mat,2026-11-06 13:00:00,Vendredi,13:00,Laetitia johan,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137681814,Fondation 2 🤎 Reformer,2026-11-06 13:15:00,Vendredi,13:15,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684276,Flow Trio ⭐️ Pilates Mat,2026-11-06 14:00:00,Vendredi,14:00,Laetitia johan,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137681282,Fondation 2 🤎 Reformer,2026-11-06 15:00:00,Vendredi,15:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684327,Dynamic Fit ⭐️ Pilates Mat,2026-11-06 15:00:00,Vendredi,15:00,Laetitia johan,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137681347,Sculpt 🤎 Reformer,2026-11-06 16:00:00,Vendredi,16:00,Nathalie Hamm,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,137681457,Flow Trio 🤎 Reformer,2026-11-06 17:00:00,Vendredi,17:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681504,Fondation 1 🤎 Reformer,2026-11-06 18:00:00,Vendredi,18:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682631,Sculpt 🤎 Reformer,2026-11-07 09:00:00,Samedi,09:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682677,Core & Tone 🤎 Reformer,2026-11-07 10:00:00,Samedi,10:00,Léa Aveline,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,137682730,Dynamic Fit 🤎 Reformer,2026-11-07 11:00:00,Samedi,11:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682796,Flow Trio 🤎 Reformer,2026-11-07 12:00:00,Samedi,12:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682857,Fondation 2 🤎 Reformer,2026-11-08 09:00:00,Dimanche,09:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137683019,Fondation 2 🤎 Reformer,2026-11-08 10:00:00,Dimanche,10:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137683068,Dynamic Fit 🤎 Reformer,2026-11-08 11:00:00,Dimanche,11:00,Léa Aveline,Reformer,7,4,3,42.9,False
+2026-10-23 00:29:02,137682955,Core & Tone 🤎 Reformer,2026-11-08 12:00:00,Dimanche,12:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137617884,Fondation 2 🤎 Reformer,2026-11-09 07:00:00,Lundi,07:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618037,Sculpt 🤎 Reformer,2026-11-09 08:00:00,Lundi,08:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,138838586,Fondation 2 ⭐️ Pilates Mat ,2026-11-09 08:00:00,Lundi,08:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137618275,Dynamic Fit 🤎 Reformer,2026-11-09 09:00:00,Lundi,09:00,Nathalie Hamm,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,138838636,Dynamic Fit ⭐️ Pilates Mat,2026-11-09 09:00:00,Lundi,09:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,138838709,Fondation 1 ⭐️ Pilates Mat,2026-11-09 10:00:00,Lundi,10:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137618347,Core & Tone 🤎 Reformer,2026-11-09 11:00:00,Lundi,11:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618390,Fondation 2 🤎 Reformer,2026-11-09 12:15:00,Lundi,12:15,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620266,Dynamic Fit 🤎 Reformer,2026-11-09 13:15:00,Lundi,13:15,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618624,Soft & Stretch 🤎 Reformer,2026-11-09 14:30:00,Lundi,14:30,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618719,Fondation 2 🤎 Reformer,2026-11-09 17:00:00,Lundi,17:00,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618833,Sculpt 🤎 Reformer,2026-11-09 18:00:00,Lundi,18:00,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137619306,Fondation 1 🤎 Reformer,2026-11-09 19:00:00,Lundi,19:00,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137619710,Sculpt 🤎 Reformer,2026-11-09 20:00:00,Lundi,20:00,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137619943,Flow Trio 🤎 Reformer,2026-11-10 07:00:00,Mardi,07:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137619984,Core & Tone 🤎 Reformer,2026-11-10 08:00:00,Mardi,08:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,138838762,Flow Trio ⭐️ Pilates Mat,2026-11-10 08:00:00,Mardi,08:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137620089,Fondation 1 🤎 Reformer,2026-11-10 09:00:00,Mardi,09:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,138839481,Fondation 2 ⭐️ Pilates Mat ,2026-11-10 09:00:00,Mardi,09:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137620049,Sculpt 🤎 Reformer,2026-11-10 10:00:00,Mardi,10:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,138839582,Core & Tone ⭐️ Pilates Mat ,2026-11-10 10:00:00,Mardi,10:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137620219,Fondation 2 🤎 Reformer,2026-11-10 12:15:00,Mardi,12:15,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,138840104,Dynamic Fit ⭐️ Pilates Mat,2026-11-10 12:15:00,Mardi,12:15,JEAN DUTARTRE,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137620384,Dynamic Fit 🤎 Reformer,2026-11-10 13:15:00,Mardi,13:15,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,138840177,Fondation 2 ⭐️ Pilates Mat ,2026-11-10 13:15:00,Mardi,13:15,JEAN DUTARTRE,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137620320,Soft & Stretch 🤎 Reformer,2026-11-10 14:30:00,Mardi,14:30,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620440,Core & Tone 🤎 Reformer,2026-11-10 16:00:00,Mardi,16:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620507,Fondation 2 🤎 Reformer,2026-11-10 17:00:00,Mardi,17:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620547,Flow Trio 🤎 Reformer,2026-11-10 18:00:00,Mardi,18:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620593,Sculpt 🤎 Reformer,2026-11-10 19:00:00,Mardi,19:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679307,Sculpt 🤎 Reformer,2026-11-11 07:00:00,Mercredi,07:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679383,Core & Tone 🤎 Reformer,2026-11-11 08:00:00,Mercredi,08:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679440,Fondation 2 🤎 Reformer,2026-11-11 09:00:00,Mercredi,09:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679521,Soft & Stretch 🤎 Reformer,2026-11-11 11:00:00,Mercredi,11:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679576,Fondation 2 🤎 Reformer,2026-11-11 12:15:00,Mercredi,12:15,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684457,Sculpt ⭐️ Pilates Mat ,2026-11-11 12:15:00,Mercredi,12:15,Léa Aveline,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137679727,Flow Trio 🤎 Reformer,2026-11-11 13:15:00,Mercredi,13:15,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684525,Soft & Stretch ⭐️ Pilates Mat,2026-11-11 13:15:00,Mercredi,13:15,Léa Aveline,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,143806683,Dynamic Fit 🤎 Reformer,2026-11-11 14:30:00,Mercredi,14:30,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684690,Sculpt ⭐️ Pilates Mat ,2026-11-11 14:30:00,Mercredi,14:30,Léa Aveline,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137680354,Sculpt 🤎 Reformer,2026-11-11 17:00:00,Mercredi,17:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680407,Fondation 2 🤎 Reformer,2026-11-11 18:00:00,Mercredi,18:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680460,Core & Tone 🤎 Reformer,2026-11-11 19:00:00,Mercredi,19:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680516,Fondation 1 🤎 Reformer,2026-11-11 20:00:00,Mercredi,20:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680578,Fondation 2 🤎 Reformer,2026-11-12 09:15:00,Jeudi,09:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680743,Core & Tone 🤎 Reformer,2026-11-12 10:15:00,Jeudi,10:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680696,Fondation 2 🤎 Reformer,2026-11-12 11:15:00,Jeudi,11:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680795,Fondation 1 🤎 Reformer,2026-11-12 12:15:00,Jeudi,12:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680872,Dynamic Fit 🤎 Reformer,2026-11-12 13:15:00,Jeudi,13:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680964,Sculpt 🤎 Reformer,2026-11-12 17:00:00,Jeudi,17:00,Justin Robert,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681039,Dynamic Fit 🤎 Reformer,2026-11-12 18:00:00,Jeudi,18:00,Justin Robert,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,137681169,Fondation 1 🤎 Reformer,2026-11-12 19:00:00,Jeudi,19:00,Justin Robert,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681232,Sculpt 🤎 Reformer,2026-11-12 20:00:00,Jeudi,20:00,Justin Robert,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681598,Fondation 2 🤎 Reformer,2026-11-13 08:00:00,Vendredi,08:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681647,Fondation 1 🤎 Reformer,2026-11-13 09:00:00,Vendredi,09:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681694,Core & Tone 🤎 Reformer,2026-11-13 10:00:00,Vendredi,10:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684389,Sculpt ⭐️ Pilates Mat ,2026-11-13 12:00:00,Vendredi,12:00,Laetitia johan,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137681758,Core & Tone 🤎 Reformer,2026-11-13 12:15:00,Vendredi,12:15,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684212,Soft & Stretch ⭐️ Pilates Mat,2026-11-13 13:00:00,Vendredi,13:00,Laetitia johan,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137681816,Fondation 2 🤎 Reformer,2026-11-13 13:15:00,Vendredi,13:15,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684272,Flow Trio ⭐️ Pilates Mat,2026-11-13 14:00:00,Vendredi,14:00,Laetitia johan,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137681275,Fondation 2 🤎 Reformer,2026-11-13 15:00:00,Vendredi,15:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684334,Dynamic Fit ⭐️ Pilates Mat,2026-11-13 15:00:00,Vendredi,15:00,Laetitia johan,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137681336,Sculpt 🤎 Reformer,2026-11-13 16:00:00,Vendredi,16:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681450,Flow Trio 🤎 Reformer,2026-11-13 17:00:00,Vendredi,17:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681495,Fondation 1 🤎 Reformer,2026-11-13 18:00:00,Vendredi,18:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682619,Sculpt 🤎 Reformer,2026-11-14 09:00:00,Samedi,09:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682674,Core & Tone 🤎 Reformer,2026-11-14 10:00:00,Samedi,10:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682741,Dynamic Fit 🤎 Reformer,2026-11-14 11:00:00,Samedi,11:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682795,Flow Trio 🤎 Reformer,2026-11-14 12:00:00,Samedi,12:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682851,Fondation 2 🤎 Reformer,2026-11-15 09:00:00,Dimanche,09:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137683030,Fondation 2 🤎 Reformer,2026-11-15 10:00:00,Dimanche,10:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137683067,Dynamic Fit 🤎 Reformer,2026-11-15 11:00:00,Dimanche,11:00,Léa Aveline,Reformer,7,6,1,14.3,False
+2026-10-23 00:29:02,137682964,Core & Tone 🤎 Reformer,2026-11-15 12:00:00,Dimanche,12:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137617885,Fondation 2 🤎 Reformer,2026-11-16 07:00:00,Lundi,07:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618018,Sculpt 🤎 Reformer,2026-11-16 08:00:00,Lundi,08:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618273,Dynamic Fit 🤎 Reformer,2026-11-16 09:00:00,Lundi,09:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,138838708,Fondation 1 ⭐️ Pilates Mat,2026-11-16 10:00:00,Lundi,10:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137618341,Core & Tone 🤎 Reformer,2026-11-16 11:00:00,Lundi,11:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618395,Fondation 2 🤎 Reformer,2026-11-16 12:15:00,Lundi,12:15,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620280,Dynamic Fit 🤎 Reformer,2026-11-16 13:15:00,Lundi,13:15,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618620,Soft & Stretch 🤎 Reformer,2026-11-16 14:30:00,Lundi,14:30,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618746,Fondation 2 🤎 Reformer,2026-11-16 17:00:00,Lundi,17:00,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618839,Sculpt 🤎 Reformer,2026-11-16 18:00:00,Lundi,18:00,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137619297,Fondation 1 🤎 Reformer,2026-11-16 19:00:00,Lundi,19:00,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137619708,Sculpt 🤎 Reformer,2026-11-16 20:00:00,Lundi,20:00,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137619937,Flow Trio 🤎 Reformer,2026-11-17 07:00:00,Mardi,07:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137619990,Core & Tone 🤎 Reformer,2026-11-17 08:00:00,Mardi,08:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620087,Fondation 1 🤎 Reformer,2026-11-17 09:00:00,Mardi,09:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620032,Sculpt 🤎 Reformer,2026-11-17 10:00:00,Mardi,10:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620220,Fondation 2 🤎 Reformer,2026-11-17 12:15:00,Mardi,12:15,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620388,Dynamic Fit 🤎 Reformer,2026-11-17 13:15:00,Mardi,13:15,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620324,Soft & Stretch 🤎 Reformer,2026-11-17 14:30:00,Mardi,14:30,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620451,Core & Tone 🤎 Reformer,2026-11-17 16:00:00,Mardi,16:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620495,Fondation 2 🤎 Reformer,2026-11-17 17:00:00,Mardi,17:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620559,Flow Trio 🤎 Reformer,2026-11-17 18:00:00,Mardi,18:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620602,Sculpt 🤎 Reformer,2026-11-17 19:00:00,Mardi,19:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679304,Sculpt 🤎 Reformer,2026-11-18 07:00:00,Mercredi,07:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679376,Core & Tone 🤎 Reformer,2026-11-18 08:00:00,Mercredi,08:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679444,Fondation 2 🤎 Reformer,2026-11-18 09:00:00,Mercredi,09:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679516,Soft & Stretch 🤎 Reformer,2026-11-18 11:00:00,Mercredi,11:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679572,Fondation 2 🤎 Reformer,2026-11-18 12:15:00,Mercredi,12:15,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684470,Sculpt ⭐️ Pilates Mat ,2026-11-18 12:15:00,Mercredi,12:15,Léa Aveline,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137679745,Flow Trio 🤎 Reformer,2026-11-18 13:15:00,Mercredi,13:15,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684523,Soft & Stretch ⭐️ Pilates Mat,2026-11-18 13:15:00,Mercredi,13:15,Léa Aveline,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,144220110,Dynamic Fit 🤎 Reformer,2026-11-18 14:30:00,Mercredi,14:30,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684693,Sculpt ⭐️ Pilates Mat ,2026-11-18 14:30:00,Mercredi,14:30,Léa Aveline,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137680347,Sculpt 🤎 Reformer,2026-11-18 17:00:00,Mercredi,17:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680405,Fondation 2 🤎 Reformer,2026-11-18 18:00:00,Mercredi,18:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680464,Core & Tone 🤎 Reformer,2026-11-18 19:00:00,Mercredi,19:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680518,Fondation 1 🤎 Reformer,2026-11-18 20:00:00,Mercredi,20:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680575,Fondation 2 🤎 Reformer,2026-11-19 09:15:00,Jeudi,09:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680738,Core & Tone 🤎 Reformer,2026-11-19 10:15:00,Jeudi,10:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680676,Fondation 2 🤎 Reformer,2026-11-19 11:15:00,Jeudi,11:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680797,Fondation 1 🤎 Reformer,2026-11-19 12:15:00,Jeudi,12:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680853,Dynamic Fit 🤎 Reformer,2026-11-19 13:15:00,Jeudi,13:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680978,Sculpt 🤎 Reformer,2026-11-19 17:00:00,Jeudi,17:00,Justin Robert,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681028,Dynamic Fit 🤎 Reformer,2026-11-19 18:00:00,Jeudi,18:00,Justin Robert,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681175,Fondation 1 🤎 Reformer,2026-11-19 19:00:00,Jeudi,19:00,Justin Robert,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681241,Sculpt 🤎 Reformer,2026-11-19 20:00:00,Jeudi,20:00,Justin Robert,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681583,Fondation 2 🤎 Reformer,2026-11-20 08:00:00,Vendredi,08:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681653,Fondation 1 🤎 Reformer,2026-11-20 09:00:00,Vendredi,09:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681698,Core & Tone 🤎 Reformer,2026-11-20 10:00:00,Vendredi,10:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684413,Sculpt ⭐️ Pilates Mat ,2026-11-20 12:00:00,Vendredi,12:00,Laetitia johan,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137681759,Core & Tone 🤎 Reformer,2026-11-20 12:15:00,Vendredi,12:15,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684217,Soft & Stretch ⭐️ Pilates Mat,2026-11-20 13:00:00,Vendredi,13:00,Laetitia johan,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137681815,Fondation 2 🤎 Reformer,2026-11-20 13:15:00,Vendredi,13:15,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684277,Flow Trio ⭐️ Pilates Mat,2026-11-20 14:00:00,Vendredi,14:00,Laetitia johan,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137681277,Fondation 2 🤎 Reformer,2026-11-20 15:00:00,Vendredi,15:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684332,Dynamic Fit ⭐️ Pilates Mat,2026-11-20 15:00:00,Vendredi,15:00,Laetitia johan,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137681343,Sculpt 🤎 Reformer,2026-11-20 16:00:00,Vendredi,16:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681446,Flow Trio 🤎 Reformer,2026-11-20 17:00:00,Vendredi,17:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681507,Fondation 1 🤎 Reformer,2026-11-20 18:00:00,Vendredi,18:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682628,Sculpt 🤎 Reformer,2026-11-21 09:00:00,Samedi,09:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682680,Core & Tone 🤎 Reformer,2026-11-21 10:00:00,Samedi,10:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682733,Dynamic Fit 🤎 Reformer,2026-11-21 11:00:00,Samedi,11:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682802,Flow Trio 🤎 Reformer,2026-11-21 12:00:00,Samedi,12:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682858,Fondation 2 🤎 Reformer,2026-11-22 09:00:00,Dimanche,09:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137683038,Fondation 2 🤎 Reformer,2026-11-22 10:00:00,Dimanche,10:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137683074,Dynamic Fit 🤎 Reformer,2026-11-22 11:00:00,Dimanche,11:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682975,Core & Tone 🤎 Reformer,2026-11-22 12:00:00,Dimanche,12:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137617886,Fondation 2 🤎 Reformer,2026-11-23 07:00:00,Lundi,07:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618019,Sculpt 🤎 Reformer,2026-11-23 08:00:00,Lundi,08:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618277,Dynamic Fit 🤎 Reformer,2026-11-23 09:00:00,Lundi,09:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,138838690,Fondation 1 ⭐️ Pilates Mat,2026-11-23 10:00:00,Lundi,10:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137618339,Core & Tone 🤎 Reformer,2026-11-23 11:00:00,Lundi,11:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618398,Fondation 2 🤎 Reformer,2026-11-23 12:15:00,Lundi,12:15,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620275,Dynamic Fit 🤎 Reformer,2026-11-23 13:15:00,Lundi,13:15,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618597,Soft & Stretch 🤎 Reformer,2026-11-23 14:30:00,Lundi,14:30,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618722,Fondation 2 🤎 Reformer,2026-11-23 17:00:00,Lundi,17:00,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618820,Sculpt 🤎 Reformer,2026-11-23 18:00:00,Lundi,18:00,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137619252,Fondation 1 🤎 Reformer,2026-11-23 19:00:00,Lundi,19:00,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137619720,Sculpt 🤎 Reformer,2026-11-23 20:00:00,Lundi,20:00,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137619933,Flow Trio 🤎 Reformer,2026-11-24 07:00:00,Mardi,07:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137619998,Core & Tone 🤎 Reformer,2026-11-24 08:00:00,Mardi,08:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620098,Fondation 1 🤎 Reformer,2026-11-24 09:00:00,Mardi,09:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620046,Sculpt 🤎 Reformer,2026-11-24 10:00:00,Mardi,10:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620235,Fondation 2 🤎 Reformer,2026-11-24 12:15:00,Mardi,12:15,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620389,Dynamic Fit 🤎 Reformer,2026-11-24 13:15:00,Mardi,13:15,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620322,Soft & Stretch 🤎 Reformer,2026-11-24 14:30:00,Mardi,14:30,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620432,Core & Tone 🤎 Reformer,2026-11-24 16:00:00,Mardi,16:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620482,Fondation 2 🤎 Reformer,2026-11-24 17:00:00,Mardi,17:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620540,Flow Trio 🤎 Reformer,2026-11-24 18:00:00,Mardi,18:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620592,Sculpt 🤎 Reformer,2026-11-24 19:00:00,Mardi,19:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679301,Sculpt 🤎 Reformer,2026-11-25 07:00:00,Mercredi,07:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679380,Core & Tone 🤎 Reformer,2026-11-25 08:00:00,Mercredi,08:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679447,Fondation 2 🤎 Reformer,2026-11-25 09:00:00,Mercredi,09:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679524,Soft & Stretch 🤎 Reformer,2026-11-25 11:00:00,Mercredi,11:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679581,Fondation 2 🤎 Reformer,2026-11-25 12:15:00,Mercredi,12:15,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684460,Sculpt ⭐️ Pilates Mat ,2026-11-25 12:15:00,Mercredi,12:15,Léa Aveline,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137679750,Flow Trio 🤎 Reformer,2026-11-25 13:15:00,Mercredi,13:15,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684537,Soft & Stretch ⭐️ Pilates Mat,2026-11-25 13:15:00,Mercredi,13:15,Léa Aveline,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,144607995,Dynamic Fit 🤎 Reformer,2026-11-25 14:30:00,Mercredi,14:30,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684691,Sculpt ⭐️ Pilates Mat ,2026-11-25 14:30:00,Mercredi,14:30,Léa Aveline,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137680351,Sculpt 🤎 Reformer,2026-11-25 17:00:00,Mercredi,17:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680439,Fondation 2 🤎 Reformer,2026-11-25 18:00:00,Mercredi,18:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680458,Core & Tone 🤎 Reformer,2026-11-25 19:00:00,Mercredi,19:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680519,Fondation 1 🤎 Reformer,2026-11-25 20:00:00,Mercredi,20:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680569,Fondation 2 🤎 Reformer,2026-11-26 09:15:00,Jeudi,09:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680740,Core & Tone 🤎 Reformer,2026-11-26 10:15:00,Jeudi,10:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680683,Fondation 2 🤎 Reformer,2026-11-26 11:15:00,Jeudi,11:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680815,Fondation 1 🤎 Reformer,2026-11-26 12:15:00,Jeudi,12:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680855,Dynamic Fit 🤎 Reformer,2026-11-26 13:15:00,Jeudi,13:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680972,Sculpt 🤎 Reformer,2026-11-26 17:00:00,Jeudi,17:00,Aveline Caminade,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681026,Dynamic Fit 🤎 Reformer,2026-11-26 18:00:00,Jeudi,18:00,Aveline Caminade,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681185,Fondation 1 🤎 Reformer,2026-11-26 19:00:00,Jeudi,19:00,Aveline Caminade,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681239,Sculpt 🤎 Reformer,2026-11-26 20:00:00,Jeudi,20:00,Aveline Caminade,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681587,Fondation 2 🤎 Reformer,2026-11-27 08:00:00,Vendredi,08:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681642,Fondation 1 🤎 Reformer,2026-11-27 09:00:00,Vendredi,09:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681708,Core & Tone 🤎 Reformer,2026-11-27 10:00:00,Vendredi,10:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684385,Sculpt ⭐️ Pilates Mat ,2026-11-27 12:00:00,Vendredi,12:00,Laetitia johan,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137681760,Core & Tone 🤎 Reformer,2026-11-27 12:15:00,Vendredi,12:15,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684219,Soft & Stretch ⭐️ Pilates Mat,2026-11-27 13:00:00,Vendredi,13:00,Laetitia johan,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137681810,Fondation 2 🤎 Reformer,2026-11-27 13:15:00,Vendredi,13:15,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684285,Flow Trio ⭐️ Pilates Mat,2026-11-27 14:00:00,Vendredi,14:00,Laetitia johan,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137681280,Fondation 2 🤎 Reformer,2026-11-27 15:00:00,Vendredi,15:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684346,Dynamic Fit ⭐️ Pilates Mat,2026-11-27 15:00:00,Vendredi,15:00,Laetitia johan,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137681359,Sculpt 🤎 Reformer,2026-11-27 16:00:00,Vendredi,16:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681443,Flow Trio 🤎 Reformer,2026-11-27 17:00:00,Vendredi,17:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681502,Fondation 1 🤎 Reformer,2026-11-27 18:00:00,Vendredi,18:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682616,Sculpt 🤎 Reformer,2026-11-28 09:00:00,Samedi,09:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682682,Core & Tone 🤎 Reformer,2026-11-28 10:00:00,Samedi,10:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682740,Dynamic Fit 🤎 Reformer,2026-11-28 11:00:00,Samedi,11:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682793,Flow Trio 🤎 Reformer,2026-11-28 12:00:00,Samedi,12:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682863,Fondation 2 🤎 Reformer,2026-11-29 09:00:00,Dimanche,09:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137683016,Fondation 2 🤎 Reformer,2026-11-29 10:00:00,Dimanche,10:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137683081,Dynamic Fit 🤎 Reformer,2026-11-29 11:00:00,Dimanche,11:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137682960,Core & Tone 🤎 Reformer,2026-11-29 12:00:00,Dimanche,12:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137617887,Fondation 2 🤎 Reformer,2026-11-30 07:00:00,Lundi,07:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618017,Sculpt 🤎 Reformer,2026-11-30 08:00:00,Lundi,08:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618268,Dynamic Fit 🤎 Reformer,2026-11-30 09:00:00,Lundi,09:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,138838704,Fondation 1 ⭐️ Pilates Mat,2026-11-30 10:00:00,Lundi,10:00,Dani Johnson,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137618340,Core & Tone 🤎 Reformer,2026-11-30 11:00:00,Lundi,11:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618404,Fondation 2 🤎 Reformer,2026-11-30 12:15:00,Lundi,12:15,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620271,Dynamic Fit 🤎 Reformer,2026-11-30 13:15:00,Lundi,13:15,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618603,Soft & Stretch 🤎 Reformer,2026-11-30 14:30:00,Lundi,14:30,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618720,Fondation 2 🤎 Reformer,2026-11-30 17:00:00,Lundi,17:00,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137618821,Sculpt 🤎 Reformer,2026-11-30 18:00:00,Lundi,18:00,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137619253,Fondation 1 🤎 Reformer,2026-11-30 19:00:00,Lundi,19:00,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137619713,Sculpt 🤎 Reformer,2026-11-30 20:00:00,Lundi,20:00,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137619949,Flow Trio 🤎 Reformer,2026-12-01 07:00:00,Mardi,07:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137619980,Core & Tone 🤎 Reformer,2026-12-01 08:00:00,Mardi,08:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620090,Fondation 1 🤎 Reformer,2026-12-01 09:00:00,Mardi,09:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620038,Sculpt 🤎 Reformer,2026-12-01 10:00:00,Mardi,10:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620223,Fondation 2 🤎 Reformer,2026-12-01 12:15:00,Mardi,12:15,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620377,Dynamic Fit 🤎 Reformer,2026-12-01 13:15:00,Mardi,13:15,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620326,Soft & Stretch 🤎 Reformer,2026-12-01 14:30:00,Mardi,14:30,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620438,Core & Tone 🤎 Reformer,2026-12-01 16:00:00,Mardi,16:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620502,Fondation 2 🤎 Reformer,2026-12-01 17:00:00,Mardi,17:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620543,Flow Trio 🤎 Reformer,2026-12-01 18:00:00,Mardi,18:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137620595,Sculpt 🤎 Reformer,2026-12-01 19:00:00,Mardi,19:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679298,Sculpt 🤎 Reformer,2026-12-02 07:00:00,Mercredi,07:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679377,Core & Tone 🤎 Reformer,2026-12-02 08:00:00,Mercredi,08:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679442,Fondation 2 🤎 Reformer,2026-12-02 09:00:00,Mercredi,09:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679532,Soft & Stretch 🤎 Reformer,2026-12-02 11:00:00,Mercredi,11:00,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137679575,Fondation 2 🤎 Reformer,2026-12-02 12:15:00,Mercredi,12:15,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684449,Sculpt ⭐️ Pilates Mat ,2026-12-02 12:15:00,Mercredi,12:15,Léa Aveline,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137679726,Flow Trio 🤎 Reformer,2026-12-02 13:15:00,Mercredi,13:15,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684522,Soft & Stretch ⭐️ Pilates Mat,2026-12-02 13:15:00,Mercredi,13:15,Léa Aveline,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,145009055,Dynamic Fit 🤎 Reformer,2026-12-02 14:30:00,Mercredi,14:30,Nathalie Hamm,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137684694,Sculpt ⭐️ Pilates Mat ,2026-12-02 14:30:00,Mercredi,14:30,Léa Aveline,Mat,8,8,0,0.0,False
+2026-10-23 00:29:02,137680349,Sculpt 🤎 Reformer,2026-12-02 17:00:00,Mercredi,17:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680408,Fondation 2 🤎 Reformer,2026-12-02 18:00:00,Mercredi,18:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680463,Core & Tone 🤎 Reformer,2026-12-02 19:00:00,Mercredi,19:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680513,Fondation 1 🤎 Reformer,2026-12-02 20:00:00,Mercredi,20:00,Léa Aveline,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680580,Fondation 2 🤎 Reformer,2026-12-03 09:15:00,Jeudi,09:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680739,Core & Tone 🤎 Reformer,2026-12-03 10:15:00,Jeudi,10:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680695,Fondation 2 🤎 Reformer,2026-12-03 11:15:00,Jeudi,11:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680806,Fondation 1 🤎 Reformer,2026-12-03 12:15:00,Jeudi,12:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680858,Dynamic Fit 🤎 Reformer,2026-12-03 13:15:00,Jeudi,13:15,Eva Bernard,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137680967,Sculpt 🤎 Reformer,2026-12-03 17:00:00,Jeudi,17:00,Justin Robert,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681050,Dynamic Fit 🤎 Reformer,2026-12-03 18:00:00,Jeudi,18:00,Justin Robert,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681179,Fondation 1 🤎 Reformer,2026-12-03 19:00:00,Jeudi,19:00,Justin Robert,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,137681240,Sculpt 🤎 Reformer,2026-12-03 20:00:00,Jeudi,20:00,Justin Robert,Reformer,7,7,0,0.0,False
+2026-10-23 00:29:02,138838695,Fondation 1 ⭐️ Pilates Mat,2026-12-07 10:00:00,Lundi,10:00,Dani Johnson,Mat,8,8,0,0.0,False
