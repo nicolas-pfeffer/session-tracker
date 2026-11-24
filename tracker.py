@@ -25,7 +25,9 @@ PARIS_TZ = pytz.timezone("Europe/Paris")
 
 HOST_ID = 278958
 BASE_URL = f"https://readonly-api.momence.com/host-plugins/host/{HOST_ID}/host-schedule/sessions"
-PAGE_SIZE = 200
+# 20 is the page size the public widget itself uses, so it is the value the
+# API is least likely to reject (200 started returning HTTP 400).
+PAGE_SIZE = 20
 DATA_DIR = "docs/data"
 LATEST_JSON = os.path.join(DATA_DIR, "latest.json")
 HISTORY_CSV = os.path.join(DATA_DIR, "history.csv")
@@ -65,6 +67,10 @@ def fetch_all_sessions(from_date_iso: str) -> List[Dict]:
         ]
 
         resp = requests.get(BASE_URL, params=params, headers=HEADERS, timeout=20)
+        if not resp.ok:
+            # Show what the API says it dislikes, so the next fix is not a guess.
+            print(f"HTTP {resp.status_code} on page {page}: {resp.text[:500]}")
+            print(f"URL: {resp.url}")
         resp.raise_for_status()
         data = resp.json()
 
@@ -192,7 +198,8 @@ def append_history_csv(records: List[Dict], snapshot_time: str) -> None:
 def main():
     now = datetime.now(timezone.utc)
     snapshot_time = now.strftime("%Y-%m-%d %H:%M:%S")
-    from_date_iso = now.strftime("%Y-%m-%dT%H:%M:%S.000Z")
+    # Seconds floored to :00, same shape as the widget's own requests.
+    from_date_iso = now.strftime("%Y-%m-%dT%H:%M:00.000Z")
 
     raw_sessions = fetch_all_sessions(from_date_iso)
     records = [to_record(s, snapshot_time) for s in raw_sessions]
