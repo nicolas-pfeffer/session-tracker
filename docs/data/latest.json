@@ -1,5 +1,5 @@
 {
-  "snapshot_time": "2026-11-25 04:49:27",
+  "snapshot_time": "2026-11-26 04:01:53",
   "sessions": [
     {
       "horodatage": "2026-07-23 08:15:23",
@@ -21167,7 +21167,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680569,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-11-26 09:30:00",
@@ -21197,7 +21197,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680683,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-11-26 11:15:00",
@@ -21212,7 +21212,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680815,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-11-26 12:15:00",
@@ -21302,7 +21302,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681587,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-11-27 08:00:00",
@@ -21317,7 +21317,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681642,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-11-27 09:00:00",
@@ -21332,7 +21332,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681708,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-11-27 10:00:00",
@@ -21362,7 +21362,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681760,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-11-27 12:15:00",
@@ -21392,7 +21392,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681810,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-11-27 13:15:00",
@@ -21422,7 +21422,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681280,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-11-27 15:00:00",
@@ -21452,7 +21452,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681359,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-11-27 16:00:00",
@@ -21467,7 +21467,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681443,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-11-27 17:00:00",
@@ -21482,7 +21482,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681502,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-11-27 18:00:00",
@@ -21497,7 +21497,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682616,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-11-28 09:00:00",
@@ -21506,13 +21506,13 @@
       "coach": "Léa Aveline",
       "lieu": "Reformer",
       "capacite": 7,
-      "places_restantes": 6,
-      "places_reservees": 1,
-      "taux_remplissage_pct": 14.3,
+      "places_restantes": 5,
+      "places_reservees": 2,
+      "taux_remplissage_pct": 28.6,
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682682,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-11-28 10:00:00",
@@ -21527,7 +21527,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682740,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-11-28 11:00:00",
@@ -21536,13 +21536,13 @@
       "coach": "Léa Aveline",
       "lieu": "Reformer",
       "capacite": 7,
-      "places_restantes": 7,
-      "places_reservees": 0,
-      "taux_remplissage_pct": 0.0,
+      "places_restantes": 6,
+      "places_reservees": 1,
+      "taux_remplissage_pct": 14.3,
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682793,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-11-28 12:00:00",
@@ -21557,7 +21557,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682863,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-11-29 09:00:00",
@@ -21572,7 +21572,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137683016,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-11-29 10:00:00",
@@ -21587,7 +21587,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137683081,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-11-29 11:00:00",
@@ -21602,7 +21602,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682960,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-11-29 12:00:00",
@@ -21617,7 +21617,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137617887,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-11-30 07:00:00",
@@ -21632,7 +21632,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618017,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-11-30 08:00:00",
@@ -21647,7 +21647,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618268,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-11-30 09:00:00",
@@ -21656,9 +21656,9 @@
       "coach": "Nathalie Hamm",
       "lieu": "Reformer",
       "capacite": 7,
-      "places_restantes": 5,
-      "places_reservees": 2,
-      "taux_remplissage_pct": 28.6,
+      "places_restantes": 4,
+      "places_reservees": 3,
+      "taux_remplissage_pct": 42.9,
       "liste_attente_pleine": false
     },
     {
@@ -21677,7 +21677,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618340,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-11-30 11:00:00",
@@ -21686,13 +21686,13 @@
       "coach": "Nathalie Hamm",
       "lieu": "Reformer",
       "capacite": 7,
-      "places_restantes": 7,
-      "places_reservees": 0,
-      "taux_remplissage_pct": 0.0,
+      "places_restantes": 6,
+      "places_reservees": 1,
+      "taux_remplissage_pct": 14.3,
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618404,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-11-30 12:15:00",
@@ -21707,7 +21707,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620271,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-11-30 13:15:00",
@@ -21722,7 +21722,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618603,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-11-30 14:30:00",
@@ -21752,7 +21752,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618821,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-11-30 18:00:00",
@@ -21767,7 +21767,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137619253,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-11-30 19:00:00",
@@ -21782,7 +21782,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137619713,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-11-30 20:00:00",
@@ -21797,7 +21797,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137619949,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-01 07:00:00",
@@ -21812,7 +21812,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137619980,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-01 08:00:00",
@@ -21827,7 +21827,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620090,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-12-01 09:00:00",
@@ -21842,7 +21842,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620038,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-01 10:00:00",
@@ -21851,13 +21851,13 @@
       "coach": "Nathalie Hamm",
       "lieu": "Reformer",
       "capacite": 7,
-      "places_restantes": 6,
-      "places_reservees": 1,
-      "taux_remplissage_pct": 14.3,
+      "places_restantes": 5,
+      "places_reservees": 2,
+      "taux_remplissage_pct": 28.6,
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620223,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-01 12:15:00",
@@ -21872,7 +21872,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 138840107,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-12-01 12:15:00",
@@ -21887,7 +21887,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620377,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-01 13:15:00",
@@ -21902,7 +21902,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 138840178,
       "nom_session": "Fondation 2 ⭐️ Pilates Mat ",
       "date_session": "2026-12-01 13:15:00",
@@ -21917,7 +21917,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620326,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-12-01 14:30:00",
@@ -21932,7 +21932,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620438,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-01 16:00:00",
@@ -21947,7 +21947,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620502,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-01 17:00:00",
@@ -21962,7 +21962,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620543,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-01 18:00:00",
@@ -21977,7 +21977,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620595,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-01 19:00:00",
@@ -21992,7 +21992,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679298,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-02 07:00:00",
@@ -22007,7 +22007,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679377,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-02 08:00:00",
@@ -22022,7 +22022,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679442,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-02 09:00:00",
@@ -22037,7 +22037,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679532,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-12-02 11:00:00",
@@ -22052,7 +22052,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679575,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-02 12:15:00",
@@ -22082,7 +22082,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679726,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-12-02 13:15:00",
@@ -22112,7 +22112,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 145009055,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-02 14:30:00",
@@ -22142,7 +22142,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680349,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-12-02 17:00:00",
@@ -22157,7 +22157,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680408,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-02 18:00:00",
@@ -22166,13 +22166,13 @@
       "coach": "Léa Aveline",
       "lieu": "Reformer",
       "capacite": 7,
-      "places_restantes": 6,
-      "places_reservees": 1,
-      "taux_remplissage_pct": 14.3,
+      "places_restantes": 5,
+      "places_reservees": 2,
+      "taux_remplissage_pct": 28.6,
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680463,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-02 19:00:00",
@@ -22187,7 +22187,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680513,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-02 20:00:00",
@@ -22202,7 +22202,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680580,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-03 09:30:00",
@@ -22217,7 +22217,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680739,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-03 10:15:00",
@@ -22232,7 +22232,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680695,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-03 11:15:00",
@@ -22247,7 +22247,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680806,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-03 12:15:00",
@@ -22262,7 +22262,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680858,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-03 13:15:00",
@@ -22337,7 +22337,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681586,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-04 08:00:00",
@@ -22352,7 +22352,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681637,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-12-04 09:00:00",
@@ -22367,7 +22367,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681696,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-04 10:00:00",
@@ -22397,7 +22397,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681761,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-04 12:15:00",
@@ -22427,7 +22427,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681821,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-04 13:15:00",
@@ -22457,7 +22457,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681294,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-12-04 15:00:00",
@@ -22487,7 +22487,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681339,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-04 16:00:00",
@@ -22502,7 +22502,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681444,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-04 17:00:00",
@@ -22517,7 +22517,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681503,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-04 18:00:00",
@@ -22532,7 +22532,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682627,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-05 09:00:00",
@@ -22547,7 +22547,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682672,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-05 10:00:00",
@@ -22562,7 +22562,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682729,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-05 11:00:00",
@@ -22592,7 +22592,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682855,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-12-06 09:00:00",
@@ -22607,7 +22607,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137683047,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-06 10:00:00",
@@ -22622,7 +22622,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137683075,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-06 11:00:00",
@@ -22637,7 +22637,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682968,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-06 12:00:00",
@@ -22652,7 +22652,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137617888,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-07 07:00:00",
@@ -22667,7 +22667,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618022,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-07 08:00:00",
@@ -22682,7 +22682,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618272,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-07 09:00:00",
@@ -22712,7 +22712,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618363,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-07 11:00:00",
@@ -22727,7 +22727,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618394,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-07 12:15:00",
@@ -22742,7 +22742,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620272,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-07 13:15:00",
@@ -22757,7 +22757,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618629,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-12-07 14:30:00",
@@ -22772,7 +22772,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618721,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-07 17:00:00",
@@ -22787,7 +22787,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618827,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-07 18:00:00",
@@ -22802,7 +22802,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137619250,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-07 19:00:00",
@@ -22817,7 +22817,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137619707,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-07 20:00:00",
@@ -22832,7 +22832,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137619944,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-08 07:00:00",
@@ -22847,7 +22847,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137619986,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-08 08:00:00",
@@ -22862,7 +22862,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620091,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-12-08 09:00:00",
@@ -22877,7 +22877,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620050,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-08 10:00:00",
@@ -22892,7 +22892,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620230,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-08 12:15:00",
@@ -22907,7 +22907,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 138840119,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-12-08 12:15:00",
@@ -22922,7 +22922,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620375,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-08 13:15:00",
@@ -22937,7 +22937,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 138840183,
       "nom_session": "Fondation 2 ⭐️ Pilates Mat ",
       "date_session": "2026-12-08 13:15:00",
@@ -22952,7 +22952,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620338,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-12-08 14:30:00",
@@ -22967,7 +22967,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620437,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-08 16:00:00",
@@ -22982,7 +22982,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620506,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-08 17:00:00",
@@ -22997,7 +22997,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620565,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-08 18:00:00",
@@ -23012,7 +23012,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620621,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-08 19:00:00",
@@ -23027,7 +23027,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679305,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-09 07:00:00",
@@ -23042,7 +23042,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679396,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-09 08:00:00",
@@ -23057,7 +23057,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679445,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-09 09:00:00",
@@ -23072,7 +23072,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679522,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-12-09 11:00:00",
@@ -23087,7 +23087,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679573,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-09 12:15:00",
@@ -23117,7 +23117,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679734,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-12-09 13:15:00",
@@ -23147,7 +23147,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 145449716,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-09 14:30:00",
@@ -23177,7 +23177,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680348,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-12-09 17:00:00",
@@ -23192,7 +23192,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680409,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-09 18:00:00",
@@ -23201,13 +23201,13 @@
       "coach": "Léa Aveline",
       "lieu": "Reformer",
       "capacite": 7,
-      "places_restantes": 6,
-      "places_reservees": 1,
-      "taux_remplissage_pct": 14.3,
+      "places_restantes": 5,
+      "places_reservees": 2,
+      "taux_remplissage_pct": 28.6,
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680461,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-09 19:00:00",
@@ -23222,7 +23222,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680527,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-09 20:00:00",
@@ -23237,7 +23237,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680572,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-10 09:30:00",
@@ -23252,7 +23252,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680748,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-10 10:15:00",
@@ -23267,7 +23267,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680684,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-10 11:15:00",
@@ -23282,7 +23282,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680809,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-10 12:15:00",
@@ -23297,7 +23297,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680864,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-10 13:15:00",
@@ -23372,7 +23372,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681608,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-11 08:00:00",
@@ -23387,7 +23387,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681641,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-12-11 09:00:00",
@@ -23402,7 +23402,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681693,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-11 10:00:00",
@@ -23432,7 +23432,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681762,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-11 12:15:00",
@@ -23462,7 +23462,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681820,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-11 13:15:00",
@@ -23492,7 +23492,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681292,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-12-11 15:00:00",
@@ -23522,7 +23522,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681350,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-11 16:00:00",
@@ -23537,7 +23537,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681454,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-11 17:00:00",
@@ -23552,7 +23552,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681501,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-11 18:00:00",
@@ -23567,7 +23567,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682657,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-12 09:00:00",
@@ -23582,7 +23582,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682678,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-12 10:00:00",
@@ -23597,7 +23597,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682738,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-12 11:00:00",
@@ -23612,7 +23612,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682813,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-12 12:00:00",
@@ -23627,7 +23627,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682852,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-12-13 09:00:00",
@@ -23642,7 +23642,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137683026,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-13 10:00:00",
@@ -23657,7 +23657,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137683092,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-13 11:00:00",
@@ -23672,7 +23672,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682966,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-13 12:00:00",
@@ -23687,7 +23687,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137617889,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-14 07:00:00",
@@ -23702,7 +23702,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618014,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-14 08:00:00",
@@ -23717,7 +23717,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618288,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-14 09:00:00",
@@ -23747,7 +23747,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618350,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-14 11:00:00",
@@ -23807,7 +23807,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618739,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-14 17:00:00",
@@ -23822,7 +23822,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618832,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-14 18:00:00",
@@ -23837,7 +23837,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137619184,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-14 19:00:00",
@@ -23852,7 +23852,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137619717,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-14 20:00:00",
@@ -23867,7 +23867,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137619921,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-15 07:00:00",
@@ -23882,7 +23882,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620007,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-15 08:00:00",
@@ -23897,7 +23897,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620107,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-12-15 09:00:00",
@@ -23912,7 +23912,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620066,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-15 10:00:00",
@@ -23927,7 +23927,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620239,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-15 12:15:00",
@@ -23942,7 +23942,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 138840122,
       "nom_session": "Dynamic Fit ⭐️ Pilates Mat",
       "date_session": "2026-12-15 12:15:00",
@@ -23957,7 +23957,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620385,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-15 13:15:00",
@@ -23972,7 +23972,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 138840184,
       "nom_session": "Fondation 2 ⭐️ Pilates Mat ",
       "date_session": "2026-12-15 13:15:00",
@@ -23987,7 +23987,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620333,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-12-15 14:30:00",
@@ -24002,7 +24002,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620439,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-15 16:00:00",
@@ -24017,7 +24017,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620511,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-15 17:00:00",
@@ -24032,7 +24032,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620550,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-15 18:00:00",
@@ -24047,7 +24047,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620594,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-15 19:00:00",
@@ -24062,7 +24062,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679312,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-16 07:00:00",
@@ -24077,7 +24077,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679397,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-16 08:00:00",
@@ -24092,7 +24092,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679449,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-16 09:00:00",
@@ -24107,7 +24107,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679515,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-12-16 11:00:00",
@@ -24122,7 +24122,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679579,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-16 12:15:00",
@@ -24152,7 +24152,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679744,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-12-16 13:15:00",
@@ -24182,7 +24182,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 145819170,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-16 14:30:00",
@@ -24212,7 +24212,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680357,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-12-16 17:00:00",
@@ -24227,7 +24227,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680420,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-16 18:00:00",
@@ -24242,7 +24242,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680492,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-16 19:00:00",
@@ -24257,7 +24257,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680522,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-16 20:00:00",
@@ -24272,7 +24272,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680598,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-17 09:30:00",
@@ -24287,7 +24287,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680741,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-17 10:15:00",
@@ -24302,7 +24302,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680690,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-17 11:15:00",
@@ -24317,7 +24317,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680810,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-17 12:15:00",
@@ -24332,7 +24332,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680854,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-17 13:15:00",
@@ -24407,7 +24407,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681596,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-18 08:00:00",
@@ -24422,7 +24422,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681646,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-12-18 09:00:00",
@@ -24437,7 +24437,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681701,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-18 10:00:00",
@@ -24452,7 +24452,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681763,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-18 12:15:00",
@@ -24467,7 +24467,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681819,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-18 13:15:00",
@@ -24482,7 +24482,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681317,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-12-18 15:00:00",
@@ -24497,7 +24497,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681337,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-18 16:00:00",
@@ -24512,7 +24512,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681463,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-18 17:00:00",
@@ -24527,7 +24527,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681508,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-18 18:00:00",
@@ -24542,7 +24542,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682637,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-19 09:00:00",
@@ -24557,7 +24557,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682684,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-19 10:00:00",
@@ -24572,7 +24572,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682735,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-19 11:00:00",
@@ -24587,7 +24587,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682814,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-19 12:00:00",
@@ -24602,7 +24602,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682854,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-12-20 09:00:00",
@@ -24617,7 +24617,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137683020,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-20 10:00:00",
@@ -24632,7 +24632,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137683073,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-20 11:00:00",
@@ -24647,7 +24647,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682962,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-20 12:00:00",
@@ -24662,7 +24662,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137617890,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-21 07:00:00",
@@ -24677,7 +24677,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618030,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-21 08:00:00",
@@ -24692,7 +24692,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618287,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-21 09:00:00",
@@ -24722,7 +24722,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618345,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-21 11:00:00",
@@ -24737,7 +24737,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618397,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-21 12:15:00",
@@ -24752,7 +24752,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620277,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-21 13:15:00",
@@ -24767,7 +24767,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618606,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-12-21 14:30:00",
@@ -24782,7 +24782,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618740,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-21 17:00:00",
@@ -24797,7 +24797,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618830,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-21 18:00:00",
@@ -24812,7 +24812,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137619280,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-21 19:00:00",
@@ -24827,7 +24827,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137619726,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-21 20:00:00",
@@ -24842,7 +24842,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137619918,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-22 07:00:00",
@@ -24857,7 +24857,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620001,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-22 08:00:00",
@@ -24872,7 +24872,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620085,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-12-22 09:00:00",
@@ -24887,7 +24887,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620048,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-22 10:00:00",
@@ -24902,7 +24902,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620225,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-22 12:15:00",
@@ -24917,7 +24917,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620387,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-22 13:15:00",
@@ -24932,7 +24932,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620331,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-12-22 14:30:00",
@@ -24947,7 +24947,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620453,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-22 16:00:00",
@@ -24962,7 +24962,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620486,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-22 17:00:00",
@@ -24977,7 +24977,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620571,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-22 18:00:00",
@@ -24992,7 +24992,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620599,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-22 19:00:00",
@@ -25007,7 +25007,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679306,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-23 07:00:00",
@@ -25022,7 +25022,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679378,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-23 08:00:00",
@@ -25037,7 +25037,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679458,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-23 09:00:00",
@@ -25052,7 +25052,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679526,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-12-23 11:00:00",
@@ -25067,7 +25067,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679601,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-23 12:15:00",
@@ -25082,7 +25082,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679712,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-12-23 13:15:00",
@@ -25097,7 +25097,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 146179797,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-23 14:30:00",
@@ -25112,7 +25112,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680365,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-12-23 17:00:00",
@@ -25127,7 +25127,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680412,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-23 18:00:00",
@@ -25142,7 +25142,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680474,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-23 19:00:00",
@@ -25157,7 +25157,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680514,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-23 20:00:00",
@@ -25172,7 +25172,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680577,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-24 09:30:00",
@@ -25187,7 +25187,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680745,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-24 10:15:00",
@@ -25202,7 +25202,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680712,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-24 11:15:00",
@@ -25217,7 +25217,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680824,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-24 12:15:00",
@@ -25232,7 +25232,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680865,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-24 13:15:00",
@@ -25247,7 +25247,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682636,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-26 09:00:00",
@@ -25262,7 +25262,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682681,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-26 10:00:00",
@@ -25277,7 +25277,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682739,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-26 11:00:00",
@@ -25292,7 +25292,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682800,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-26 12:00:00",
@@ -25307,7 +25307,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682870,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-12-27 09:00:00",
@@ -25322,7 +25322,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137683024,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-27 10:00:00",
@@ -25337,7 +25337,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137683078,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-27 11:00:00",
@@ -25352,7 +25352,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682981,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-27 12:00:00",
@@ -25367,7 +25367,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137617891,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-28 07:00:00",
@@ -25382,7 +25382,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618020,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-28 08:00:00",
@@ -25397,7 +25397,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618286,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-28 09:00:00",
@@ -25412,7 +25412,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618351,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-28 11:00:00",
@@ -25427,7 +25427,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618405,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-28 12:15:00",
@@ -25442,7 +25442,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620278,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-28 13:15:00",
@@ -25457,7 +25457,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618625,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-12-28 14:30:00",
@@ -25472,7 +25472,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618734,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-28 17:00:00",
@@ -25487,7 +25487,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618824,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-28 18:00:00",
@@ -25502,7 +25502,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137619323,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-28 19:00:00",
@@ -25517,7 +25517,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137619724,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-28 20:00:00",
@@ -25532,7 +25532,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137619913,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-29 07:00:00",
@@ -25547,7 +25547,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620012,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-29 08:00:00",
@@ -25562,7 +25562,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620113,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-12-29 09:00:00",
@@ -25577,7 +25577,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620040,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-29 10:00:00",
@@ -25592,7 +25592,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620221,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-29 12:15:00",
@@ -25607,7 +25607,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620379,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-29 13:15:00",
@@ -25622,7 +25622,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620332,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-12-29 14:30:00",
@@ -25637,7 +25637,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620446,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-29 16:00:00",
@@ -25652,7 +25652,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620489,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-29 17:00:00",
@@ -25667,7 +25667,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620564,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-29 18:00:00",
@@ -25682,7 +25682,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620615,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-29 19:00:00",
@@ -25697,7 +25697,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679309,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-30 07:00:00",
@@ -25712,7 +25712,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679386,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-30 08:00:00",
@@ -25727,7 +25727,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679454,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-30 09:00:00",
@@ -25742,7 +25742,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679527,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2026-12-30 11:00:00",
@@ -25757,7 +25757,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679600,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-30 12:15:00",
@@ -25772,7 +25772,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137679722,
       "nom_session": "Flow Trio 🤎 Reformer",
       "date_session": "2026-12-30 13:15:00",
@@ -25787,7 +25787,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 146588510,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-30 14:30:00",
@@ -25802,7 +25802,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680355,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2026-12-30 17:00:00",
@@ -25817,7 +25817,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680411,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-30 18:00:00",
@@ -25832,7 +25832,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680487,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-30 19:00:00",
@@ -25847,7 +25847,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680537,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-30 20:00:00",
@@ -25862,7 +25862,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680584,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-31 09:30:00",
@@ -25877,7 +25877,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680749,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2026-12-31 10:15:00",
@@ -25892,7 +25892,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680699,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2026-12-31 11:15:00",
@@ -25907,7 +25907,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680813,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2026-12-31 12:15:00",
@@ -25922,7 +25922,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137680851,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2026-12-31 13:15:00",
@@ -25937,7 +25937,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682620,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2027-01-02 09:00:00",
@@ -25952,7 +25952,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682683,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2027-01-02 10:00:00",
@@ -25967,7 +25967,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682742,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2027-01-02 11:00:00",
@@ -25982,7 +25982,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682812,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2027-01-02 12:00:00",
@@ -25997,7 +25997,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682860,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2027-01-03 09:00:00",
@@ -26012,7 +26012,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137683032,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2027-01-03 10:00:00",
@@ -26027,7 +26027,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137683099,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2027-01-03 11:00:00",
@@ -26042,7 +26042,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137682965,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2027-01-03 12:00:00",
@@ -26057,7 +26057,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137617920,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2027-01-04 07:00:00",
@@ -26072,7 +26072,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618021,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2027-01-04 08:00:00",
@@ -26087,7 +26087,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618282,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2027-01-04 09:00:00",
@@ -26102,7 +26102,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618343,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2027-01-04 11:00:00",
@@ -26117,7 +26117,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618401,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2027-01-04 12:15:00",
@@ -26132,7 +26132,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620282,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2027-01-04 13:15:00",
@@ -26147,7 +26147,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618598,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2027-01-04 14:30:00",
@@ -26162,7 +26162,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618723,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2027-01-04 17:00:00",
@@ -26177,7 +26177,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618823,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2027-01-04 18:00:00",
@@ -26192,7 +26192,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137619255,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2027-01-04 19:00:00",
@@ -26207,7 +26207,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137619716,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2027-01-04 20:00:00",
@@ -26222,7 +26222,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137619939,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2027-01-05 07:00:00",
@@ -26237,7 +26237,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137619988,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2027-01-05 08:00:00",
@@ -26252,7 +26252,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620093,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2027-01-05 09:00:00",
@@ -26267,7 +26267,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620054,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2027-01-05 10:00:00",
@@ -26282,7 +26282,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620228,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2027-01-05 12:15:00",
@@ -26297,7 +26297,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620386,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2027-01-05 13:15:00",
@@ -26312,7 +26312,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620327,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2027-01-05 14:30:00",
@@ -26327,7 +26327,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620442,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2027-01-05 16:00:00",
@@ -26342,7 +26342,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620504,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2027-01-05 17:00:00",
@@ -26357,7 +26357,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620554,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2027-01-05 18:00:00",
@@ -26372,7 +26372,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620605,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2027-01-05 19:00:00",
@@ -26387,7 +26387,172 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
+      "id_session": 137679303,
+      "nom_session": "Sculpt 🤎 Reformer",
+      "date_session": "2027-01-06 07:00:00",
+      "jour_semaine": "Mercredi",
+      "heure": "07:00",
+      "coach": "Nathalie Hamm",
+      "lieu": "Reformer",
+      "capacite": 7,
+      "places_restantes": 7,
+      "places_reservees": 0,
+      "taux_remplissage_pct": 0.0,
+      "liste_attente_pleine": false
+    },
+    {
+      "horodatage": "2026-11-26 04:01:53",
+      "id_session": 137679404,
+      "nom_session": "Core & Tone 🤎 Reformer",
+      "date_session": "2027-01-06 08:00:00",
+      "jour_semaine": "Mercredi",
+      "heure": "08:00",
+      "coach": "Nathalie Hamm",
+      "lieu": "Reformer",
+      "capacite": 7,
+      "places_restantes": 7,
+      "places_reservees": 0,
+      "taux_remplissage_pct": 0.0,
+      "liste_attente_pleine": false
+    },
+    {
+      "horodatage": "2026-11-26 04:01:53",
+      "id_session": 137679460,
+      "nom_session": "Fondation 2 🤎 Reformer",
+      "date_session": "2027-01-06 09:00:00",
+      "jour_semaine": "Mercredi",
+      "heure": "09:00",
+      "coach": "Nathalie Hamm",
+      "lieu": "Reformer",
+      "capacite": 7,
+      "places_restantes": 7,
+      "places_reservees": 0,
+      "taux_remplissage_pct": 0.0,
+      "liste_attente_pleine": false
+    },
+    {
+      "horodatage": "2026-11-26 04:01:53",
+      "id_session": 137679519,
+      "nom_session": "Soft & Stretch 🤎 Reformer",
+      "date_session": "2027-01-06 11:00:00",
+      "jour_semaine": "Mercredi",
+      "heure": "11:00",
+      "coach": "Nathalie Hamm",
+      "lieu": "Reformer",
+      "capacite": 7,
+      "places_restantes": 7,
+      "places_reservees": 0,
+      "taux_remplissage_pct": 0.0,
+      "liste_attente_pleine": false
+    },
+    {
+      "horodatage": "2026-11-26 04:01:53",
+      "id_session": 137679580,
+      "nom_session": "Fondation 2 🤎 Reformer",
+      "date_session": "2027-01-06 12:15:00",
+      "jour_semaine": "Mercredi",
+      "heure": "12:15",
+      "coach": "Nathalie Hamm",
+      "lieu": "Reformer",
+      "capacite": 7,
+      "places_restantes": 7,
+      "places_reservees": 0,
+      "taux_remplissage_pct": 0.0,
+      "liste_attente_pleine": false
+    },
+    {
+      "horodatage": "2026-11-26 04:01:53",
+      "id_session": 137679739,
+      "nom_session": "Flow Trio 🤎 Reformer",
+      "date_session": "2027-01-06 13:15:00",
+      "jour_semaine": "Mercredi",
+      "heure": "13:15",
+      "coach": "Nathalie Hamm",
+      "lieu": "Reformer",
+      "capacite": 7,
+      "places_restantes": 7,
+      "places_reservees": 0,
+      "taux_remplissage_pct": 0.0,
+      "liste_attente_pleine": false
+    },
+    {
+      "horodatage": "2026-11-26 04:01:53",
+      "id_session": 147048957,
+      "nom_session": "Dynamic Fit 🤎 Reformer",
+      "date_session": "2027-01-06 14:30:00",
+      "jour_semaine": "Mercredi",
+      "heure": "14:30",
+      "coach": "Nathalie Hamm",
+      "lieu": "Reformer",
+      "capacite": 7,
+      "places_restantes": 7,
+      "places_reservees": 0,
+      "taux_remplissage_pct": 0.0,
+      "liste_attente_pleine": false
+    },
+    {
+      "horodatage": "2026-11-26 04:01:53",
+      "id_session": 137680364,
+      "nom_session": "Fondation 1 🤎 Reformer",
+      "date_session": "2027-01-06 17:00:00",
+      "jour_semaine": "Mercredi",
+      "heure": "17:00",
+      "coach": "Léa Aveline",
+      "lieu": "Reformer",
+      "capacite": 7,
+      "places_restantes": 7,
+      "places_reservees": 0,
+      "taux_remplissage_pct": 0.0,
+      "liste_attente_pleine": false
+    },
+    {
+      "horodatage": "2026-11-26 04:01:53",
+      "id_session": 137680422,
+      "nom_session": "Fondation 2 🤎 Reformer",
+      "date_session": "2027-01-06 18:00:00",
+      "jour_semaine": "Mercredi",
+      "heure": "18:00",
+      "coach": "Léa Aveline",
+      "lieu": "Reformer",
+      "capacite": 7,
+      "places_restantes": 7,
+      "places_reservees": 0,
+      "taux_remplissage_pct": 0.0,
+      "liste_attente_pleine": false
+    },
+    {
+      "horodatage": "2026-11-26 04:01:53",
+      "id_session": 137680486,
+      "nom_session": "Core & Tone 🤎 Reformer",
+      "date_session": "2027-01-06 19:00:00",
+      "jour_semaine": "Mercredi",
+      "heure": "19:00",
+      "coach": "Léa Aveline",
+      "lieu": "Reformer",
+      "capacite": 7,
+      "places_restantes": 7,
+      "places_reservees": 0,
+      "taux_remplissage_pct": 0.0,
+      "liste_attente_pleine": false
+    },
+    {
+      "horodatage": "2026-11-26 04:01:53",
+      "id_session": 137680532,
+      "nom_session": "Sculpt 🤎 Reformer",
+      "date_session": "2027-01-06 20:00:00",
+      "jour_semaine": "Mercredi",
+      "heure": "20:00",
+      "coach": "Léa Aveline",
+      "lieu": "Reformer",
+      "capacite": 7,
+      "places_restantes": 7,
+      "places_reservees": 0,
+      "taux_remplissage_pct": 0.0,
+      "liste_attente_pleine": false
+    },
+    {
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681595,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2027-01-08 08:00:00",
@@ -26402,7 +26567,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681649,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2027-01-08 09:00:00",
@@ -26417,7 +26582,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681726,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2027-01-08 10:00:00",
@@ -26432,7 +26597,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681766,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2027-01-08 12:15:00",
@@ -26447,7 +26612,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681818,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2027-01-08 13:15:00",
@@ -26462,7 +26627,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681298,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2027-01-08 15:00:00",
@@ -26477,7 +26642,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681346,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2027-01-08 16:00:00",
@@ -26492,7 +26657,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681453,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2027-01-08 17:00:00",
@@ -26507,7 +26672,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681512,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2027-01-08 18:00:00",
@@ -26522,7 +26687,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618417,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2027-01-11 12:15:00",
@@ -26537,7 +26702,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137620276,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2027-01-11 13:15:00",
@@ -26552,7 +26717,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618633,
       "nom_session": "Soft & Stretch 🤎 Reformer",
       "date_session": "2027-01-11 14:30:00",
@@ -26567,7 +26732,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137618729,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2027-01-11 17:00:00",
@@ -26582,7 +26747,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681621,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2027-01-15 08:00:00",
@@ -26597,7 +26762,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681655,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2027-01-15 09:00:00",
@@ -26612,7 +26777,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681717,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2027-01-15 10:00:00",
@@ -26627,7 +26792,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681769,
       "nom_session": "Core & Tone 🤎 Reformer",
       "date_session": "2027-01-15 12:15:00",
@@ -26642,7 +26807,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681836,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2027-01-15 13:15:00",
@@ -26657,7 +26822,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681287,
       "nom_session": "Fondation 1 🤎 Reformer",
       "date_session": "2027-01-15 15:00:00",
@@ -26672,7 +26837,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681342,
       "nom_session": "Sculpt 🤎 Reformer",
       "date_session": "2027-01-15 16:00:00",
@@ -26687,7 +26852,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681466,
       "nom_session": "Dynamic Fit 🤎 Reformer",
       "date_session": "2027-01-15 17:00:00",
@@ -26702,7 +26867,7 @@
       "liste_attente_pleine": false
     },
     {
-      "horodatage": "2026-11-25 04:49:27",
+      "horodatage": "2026-11-26 04:01:53",
       "id_session": 137681527,
       "nom_session": "Fondation 2 🤎 Reformer",
       "date_session": "2027-01-15 18:00:00",
